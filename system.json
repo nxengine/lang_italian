@@ -8,10 +8,19 @@
   "Reset" : "Azzerare",
   "Resume" : "Riprendere",
 
+  "Graphics": "Grafica",
+  "Sound": "Audio",
+
+  "SFX volume: ": "Volume audio: ",
+  "Music volume: ": "Volume musica: ",
+  "Bind keys": "Ridefenire tasti",
+  "Strafing: ": "Andare indietro: ",
+  "Strafe": "Andare indietro",
+
   "Resolution: ": "Dimensione: ",
   "Fullscreen: ": "Schermo intero: ",
-  "On": "accendere",
-  "Off": "spegnere",
+  "On": "acceso",
+  "Off": "spento",
   "Boss Only": "Solo boss",
   "Controls": "Controlli",
   "Music: ": "Musica: ",
