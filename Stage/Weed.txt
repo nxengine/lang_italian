@@ -60,7 +60,7 @@
 <FLJ0222:0111
 <ITJ0010:0110
 <MSGSembra che sia chiusa.<NOD
-La parola "Gomma" č scritta sulla
+La parola "Gomma" è scritta sulla
 porta.<NOD<END
 #0110
 <SOU0022<MSG<GIT1010Hai usato la =Chiave Gomma=.<NOD<CLO
@@ -98,7 +98,7 @@ Hai trovato la =Chiave di Santa=!<WAI0160<NOD<CLO
 <PRI<FLJ0228:0207<FL+0228<MSGOho.
 <NOD<CLRUn soldato dalla superficie??<NOD
 Pensavo che la guerra fosse 
-giŕ finita.<NOD<CLRMassě, che importa.<NOD<CLO<EVE0207
+già finita.<NOD<CLRMassì, che importa.<NOD<CLO<EVE0207
 
 
 #0202
@@ -121,7 +121,7 @@ centrale elettrica.<NOD<END
 #0206 
 <PRI<MSGLascia che ti dia un consiglio.<NOD<CLRSe tieni premuto il pulsante Salto
 mentre un ventilatore ti spinge,<NOD
-potrai volare ancora piů in alto.<NOD<END
+potrai volare ancora più in alto.<NOD<END
 
 #0207 
 <PRI<MSGSe vuoi addentrarti, stai attento
@@ -166,14 +166,14 @@ Aprimi questa porta...<NOD<END
 Bene, fantastico...<NOD<CLR.....<NOD<FL+0223<EVE0235
 
 #0234 
-<PRI<FL+0216<MSGNon c'č nemmeno il buco della 
+<PRI<FL+0216<MSGNon c'è nemmeno il buco della 
 serratura.<NOD
-La porta č del tutto arrugginita.<NOD<END
+La porta è del tutto arrugginita.<NOD<END
 #0235
 <PRI<MSGSe non funziona la serratura, 
 allora dobbiamo fare saltare 
 la porta...<NOD
-Come lo si puň fare?...<NOD<END
+Come lo si può fare?...<NOD<END
 
 #0236
 <PRI<MSGCosa? Esplosivi?<NOD<CLRSi, quelli funzionerebbero...<NOD
@@ -182,11 +182,11 @@ Aspetta un secondo...<NOD<CLO<WAI0100
 <MSGEcco, prendi questo.<NOD<GIT1010<IT+0010<FL+0221<CLR
 <CMU0010Hai ricevuto la =Chiave Gomma=.<WAI0160<NOD<RMU<CLREra appesa al muro.<NOD
 C'era scritto "Gomma"...<NOD
-Ci sarŕ una correlazione!<NOD
+Ci sarà una correlazione!<NOD
 La mia vita dipende da 
 te, giovanotto!<NOD<END
 #0237
-<PRI<MSGBeh, la bomba č giŕ pronta?<NOD<END
+<PRI<MSGBeh, la bomba è già pronta?<NOD<END
 
 
 #0239 
@@ -216,7 +216,7 @@ L'energia massima aumenta di 5!<NOD<END
 #0401
 
 #0450
-<PRI<MSGForse č una motocicletta?<NOD<END
+<PRI<MSGForse è una motocicletta?<NOD<END
 #0451
 #0452
 
@@ -243,7 +243,7 @@ Ed adesso...<NOD<END
 <ITJ0003:0503<END
 #0503
 <KEY<FL+0212<MM0<MYD0000<WAI0030<PRI 
-<MSGOh!<NOD<CLRQuesta č la chiave di casa mia!<NOD<IT-0003<GIT1003<CLR
+<MSGOh!<NOD<CLRQuesta è la chiave di casa mia!<NOD<IT-0003<GIT1003<CLR
 Restituito la =Chiave di Santa=.<NOD<GIT0000<CLRGrazie mille!<NOD<CLO
 <KEY<ANP0500:0003:0000<WAI0176<ANP0500:0000:0002
 <SOU0011<CNP0101:0000:0000<WAI0010

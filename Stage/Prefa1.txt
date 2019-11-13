@@ -23,16 +23,16 @@
 <KEY<MSGHai trovato una nota scritta da
 Booster.<NOD
 Vuoi leggerla?<YNJ0000<CLR<TURL'esplorazione dell'interno
-dell'isola sarebbe molto piů 
+dell'isola sarebbe molto più 
 semplice, credo,<NOD<CLRse avessimo dell'equipaggiamento 
 per facilitare il movimento aereo.<NOD<CLRErgo, ho cominciato
 a lavorare sul "Booster".<NOD<CLRLo sviluppo di questo apparato di volo
-si svolgerŕ in due fasi,
-versione 0.8 e 2.0.<NOD<CLRLa v0.8 permetterŕ di stare sospesi 
+si svolgerà in due fasi,
+versione 0.8 e 2.0.<NOD<CLRLa v0.8 permetterà di stare sospesi 
 in aria per un po'.<NOD<CLRSono sicuro di poter completare la v2.0,
-sempre se riuscirň a vivere abbastanza.<NOD<CLRSembra che sarŕ un oggetto ancora
-piů utile.<NOD<CLO
+sempre se riuscirò a vivere abbastanza.<NOD<CLRSembra che sarà un oggetto ancora
+più utile.<NOD<CLO
 <FLJ0161:0000<WAI0150<MS2
-    Se riuscirň a vivere...<WAI0050<NOD<END
+    Se riuscirò a vivere...<WAI0050<NOD<END
 
 

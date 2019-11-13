@@ -24,7 +24,7 @@ Gli altri dove sono?<NOD<CLR.....<NOD<CLRCome dici?
 Hai perso la memoria?<NOD
 Heh-heh-heh...<NOD<END
 #0201
-<KEY<MSGBeh, finchč la tua energia 
+<KEY<MSGBeh, finchè la tua energia 
 non si esaurisce, gironzola 
 quanto ti pare.<NOD<END
 

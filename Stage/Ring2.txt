@@ -38,20 +38,20 @@
 <KEY
 <FLJ1272:0204
 <FLJ1270:0202
-<FLJ1271:0201<MSGOh, č il Sig. Viaggiatore!<NOD<FLJ1020:0205<CLRE' venuto per salvarmi?<NOD<END
+<FLJ1271:0201<MSGOh, è il Sig. Viaggiatore!<NOD<FLJ1020:0205<CLRE' venuto per salvarmi?<NOD<END
 #0201
 <PRI<MSGPuoi farcela!<NOD<END
 #0202
 <KEY<MSGCe l'hai fatta!<NOD<CLRMi sento come una principessa.<NOD<CLR
 Sue?<NOD<CLROooh, la conosco.<NOD
 Quella ragazza sembra una Mimiga,
-ma in realtŕ č umana, non č vero?<NOD
+ma in realtà è umana, non è vero?<NOD
 Il mio occhio non si inganna.<NOD
-Comunque non č qui.<NOD<CLO
+Comunque non è qui.<NOD<CLO
 <FL+1272<END
 #0203
 #0204
-<KEY<MSGSei cosě forte!<NOD
+<KEY<MSGSei così forte!<NOD
 Quasi come il grande eroe Arthur.<NOD<FLJ1274:0000<FL+1274<CLRTee-hee!...<NOD<CLO
 <ANP0250:0010:0005
 <ANP0251:0010:0005
@@ -69,12 +69,12 @@ non puoi ingannare me.<NOD<END
 <FLJ1271:0211
 <MSGIl Dottore ha paura di noi.<NOD
 Per questo ci ha sbattuto in 
-galera.<NOD Dev'essere cosě.<NOD<END
+galera.<NOD Dev'essere così.<NOD<END
 #0211
-<PRI<MSGHai delle prioritŕ alquanto
+<PRI<MSGHai delle priorità alquanto
 interessanti.<NOD<END
 #0212
-<PRI<MSGQuello sě che č stato uno 
+<PRI<MSGQuello sì che è stato uno 
 spettacolo!<NOD<END
 
 #0220
@@ -91,7 +91,7 @@ chiave?...<NOD<FLJ1020:0223<CLRBeh, va tutto bene...<NOD<CLRCerto che quel Dotto
 aveva in mente nulla di buono, 
 nevvero?<NOD<END
 #0223
-<KEY<MSGPerchč sei conciato come un Mimiga?!<NOD<END
+<KEY<MSGPerchè sei conciato come un Mimiga?!<NOD<END
 
 #0250
 #0251
@@ -136,19 +136,19 @@ Hai sconfitto il Dottore!<WAI0140<NOD<CMU0000<CLO
 <CMU0017<MYD0002
 <CMP0003:0013:0021
 <MS3<FAC0021<ANP0400:0010:0000Mwah-hah-hah...<NOD<CLR
-Finalmente č completo.<NOD<CLO<FAC0000
+Finalmente è completo.<NOD<CLO<FAC0000
 <WAI0020<ANP0400:0020:0000<WAI0030
 <MS3<FAC0021Amministrare i fiori rossi
 ai Mimiga li fa prorompere 
 in una rabbia 
 violenta...<NOD<CLREd il motivo, a
-dire il vero, č<NOD<CLR
+dire il vero, è<NOD<CLR
 alquanto semplice.<NOD<CLRI fiori non solo
 contengono una sostanza 
 che risveglia i propri 
 poteri latenti,<NOD<CLRma anche 
 una che elimina le 
-facoltŕ di ragionamento.<NOD<CLRE' questa che ho 
+facoltà di ragionamento.<NOD<CLRE' questa che ho 
 estratto e concentrato con
 grande successo.<NOD<CLRLa puoi vedere in
 questa forma...<NOD<CLO<FAC0000

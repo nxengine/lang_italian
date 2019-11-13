@@ -34,7 +34,7 @@
 
 #0199
 <PRI<CMU0033<MSGGrazie per aver provato!
-La prossima parte č ancora
+La prossima parte è ancora
 in costruzione...<NOD<RMU<END
 
 #0200
@@ -91,7 +91,7 @@ tutti bene...<NOD<CLO
 <ANP0291:0042:0000
 <ANP0290:0000:0000
 <MSG<FAC0028Un terremoto...?<NOD<CLR<FAC0022Il nucleo...?
-Non puň essere!<NOD<CLO
+Non può essere!<NOD<CLO
 <FAO0003<FOM0016<CPS<MYD0002<TRA0068:0600:0024:0013
 <END
 
@@ -103,7 +103,7 @@ Non puň essere!<NOD<CLO
 <ANP0305:0011:0002
 <ANP0280:0010:0000
 <FON0305:0016<MS3<FAC0003Da questa parte!<NOD
-Corri piů veloce che puoi,
+Corri più veloce che puoi,
 o finirai per essere
 schiacciato!<NOD<FON0280:0016<CLO
 <ANP0305:0030:0000<WAI0060
@@ -118,7 +118,7 @@ nessun'altra parte.
 Dobbiamo saltare per forza.<NOD
 Oppure queste rocce ci 
 schiacceranno!<NOD<CLRPronto?<NOD
-Salta piů forte che puoi!<NOD<CLO<KEY
+Salta più forte che puoi!<NOD<CLO<KEY
 <ANP0320:0000:0000<WAI0050
 <ANP0320:0030:0000<WAI0012
 <ANP0320:0040:0000<WAI0050

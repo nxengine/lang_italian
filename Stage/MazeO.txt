@@ -27,7 +27,7 @@
 <KEY<MSGIl robot misterioso,
 il Mostro X...<NOD
 La tua unica chance per
-attaccarlo č quando
+attaccarlo è quando
 gli si apre il boccaporto.<NOD<END
 
 
@@ -38,16 +38,16 @@ Vieni, lascia che ti ripristini la salute.<NOD<CLO<LI+1000<SOU0020
 <FLJ0702:0303
 <ITJ0016:0302
 <FLJ0700:0301<FL+0700<WAI0050
-<MSGNo, no, no č gratis. 
-Non preoccuparti.<NOD<CLRIn cambio, perň, c'č un favore
-che vorrei chiederti.<NOD<CLRDa queste parti c'č una vecchia
+<MSGNo, no, no è gratis. 
+Non preoccuparti.<NOD<CLRIn cambio, però, c'è un favore
+che vorrei chiederti.<NOD<CLRDa queste parti c'è una vecchia
 clinica.<NOD
-Vai lŕ e vedi se sono
+Vai là e vedi se sono
 rimaste delle medicine.<NOD<CLR
 <GIT1017<IT+0017Ti ha dato la 
 =Chiave della Clinica=.<NOD<GIT0000<END
 #0301
-<KEY<MSGLa clinica non č molto lontana.<NOD
+<KEY<MSGLa clinica non è molto lontana.<NOD
 Cerca qualche medicina che
 sembri utilizzabile.<NOD<END
 #0302
@@ -62,7 +62,7 @@ Al resto ci penso io.<NOD<END
 #0304
 <KEY<MSGSembra che la medicina stia
 funzionando.<NOD
-Sarŕ sana e pronta per l'azione
+Sarà sana e pronta per l'azione
 in men che non si dica.<NOD
 Tutto grazie a te, naturalmente.<NOD<END
 
@@ -73,7 +73,7 @@ Tutto grazie a te, naturalmente.<NOD<END
 <KEY<MSGSono un'infermiera.<NOD
 Prima lavoravo nella
 clinica vicina,<NOD
-ma č stata infestata dai fantasmi,
+ma è stata infestata dai fantasmi,
 quindi sono scappata qui.<NOD<END
 #0311
 <KEY<MSGSei un suo amico?<NOD
@@ -82,7 +82,7 @@ fare quello che le dice il
 dottore.<NOD<END
 #0312
 <KEY<MSGBel lavoro!<NOD
-Non č che hai visto fantasmi,
+Non è che hai visto fantasmi,
 vero?<NOD<END
 #0313
 <KEY<MSGOh, sei venuto a far visita
@@ -109,7 +109,7 @@ a salvare nessuno di
 quei bambini.<NOD
 E nella condizione in cui 
 mi trovo non credo 
-potrň andarmene
+potrò andarmene
 molto presto...<NOD<END
 #0321
 <KEY<MSG<FAC0020Sono sopravvissuta, certo, 
@@ -117,12 +117,12 @@ ma per cosa?<NOD<CLRNon ho intenzione di
 starmene qui seduta 
 a marcire...<NOD<END
 #0322
-<KEY<MSG<FAC0020Questo č il leggendario
+<KEY<MSG<FAC0020Questo è il leggendario
 Labirinto.<NOD
 Non so chi l'abbia 
 costruito, ma sembra
 che sia la discarica 
-dell'Isola.<NOD<CLRC'č solo un modo per
+dell'Isola.<NOD<CLRC'è solo un modo per
 uscirne.<NOD
 Si deve oltrepassare
 quel pietrone situato nella

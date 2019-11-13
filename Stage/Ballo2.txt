@@ -22,15 +22,15 @@
 #0500
 <KEY<HMC<FOM0016<MYD0002<CMU0000<QUA0050<FAI0001
 <WAI0150
-<MSG<FAC0025Si č fermata...<NOD<CLR<FAC0019L'isola ha smesso 
+<MSG<FAC0025Si è fermata...<NOD<CLR<FAC0019L'isola ha smesso 
 di cadere!<NOD<CLRForse tutta l'energia
-negativa si sarŕ 
+negativa si sarà 
 affievolita?<NOD<CLR<FAC0025.....<NOD<CLRBeh, non so, ma sembra che
 comunque il nostro lavoro
 sia finito.<NOD<CLO<FAC0000
 <MS2<TUR   Fa male...<WAI0050
 <MSG<FAC0025Cosa?<NOD<CLO<FAC0000
-<WAI0100<MS2<TUR     Cosě...  Caldo.....
+<WAI0100<MS2<TUR     Così...  Caldo.....
 <ANP0410:0010:0000<ANP0411:0010:0002<WAI0050        Il Dolore...
 <WAI0100<PRI<MSG?!<WAI0050<NOD<CLO<FAC0000<KEY
 <CMU0034<WAI0100
@@ -43,7 +43,7 @@ sia finito.<NOD<CLO<FAC0000
 <ANP0401:0000:0000<WAI0020
 <MS2<TUR    Aiutatemi...<WAI0050
      Fa male...<WAI0050
-      Cosě caldo.....<WAI0050<CLR<CLO
+      Così caldo.....<WAI0050<CLR<CLO
 <PRI<MSG<FAC0025Finiremo schiacciati!<NOD<CLO<KEY<WAI0050
 <PRI<FAC0000<MS3Hiyah!<NOD<CLO
 <KEY<CNP0402:0009:0000<WAI0150

@@ -28,7 +28,7 @@ non puoi vedere meglio...<NOD<CLO
 <FLJ0261:0000<WAI0030<FL+0261<FL+0263
 <ANP0300:0003:0002<WAI0045<ANP0300:0000:0002<MYD0000
 <MSGOh, vorresti passare attraverso
-il mio camino?<NOD<CLRAllora ti servirŕ il
+il mio camino?<NOD<CLRAllora ti servirà il
 =Succo di Medusa= che puoi prendere da loro.<NOD<END
 #0202
 <KEY<GIT1008<MSGVuoi usare il 
@@ -52,7 +52,7 @@ Vita ristorata.<NOD<CLO<RMU<FAI0004<END
 <ITJ0008:0302
 <FLJ0261:0301
 <FLJ0241:0303
-<KEY<MSGHeilŕ, salve!<NOD<CLRHai incontrato Santa, 
+<KEY<MSGHeilà, salve!<NOD<CLRHai incontrato Santa, 
 il fifone locale?<NOD<END
 #0301
 <KEY<MSGPer spegnere le fiamme, ti
@@ -65,7 +65,7 @@ dalle Meduse stesse. Mira a quella bella grossa!<NOD
 Grande!<NOD<CLRPuoi solo portarne con te una dose alla volta, ma puoi ottenerne 
 quante ne vuoi.<NOD<END
 #0303
-<KEY<MSGHeilŕ, salve!<NOD
+<KEY<MSGHeilà, salve!<NOD
 Cielo, quella roba che hai in mano sembra piuttosto pericolosa!
 <NOD<CLR
 Sei un viaggiatore?<NOD<END

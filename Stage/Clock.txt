@@ -21,7 +21,7 @@
 <MSGAperto lo scrigno.<NOD<GIT1022<IT+0022<CLR
 <CMU0010Trovato il =Contatore Nikumaru=!<WAI0160<NOD<RMU<EVE0202
 #0202
-<KEY<MSGC'č qualcosa scritto qui...<NOD<CLR<TURQuesto oggetto č un tributo alla tua 
+<KEY<MSGC'è qualcosa scritto qui...<NOD<CLR<TURQuesto oggetto è un tributo alla tua 
 determinazione. Gloria a tutti gli zelanti 
 esploratori!<NOD<END
 

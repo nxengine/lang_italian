@@ -61,7 +61,7 @@ avessero un'anima...<NOD<END
 #0212
 <MSGAl diavolo quel Dottore!<NOD<CLRPortare quella povera
 ragazzina con lui!<NOD
-Oh, se solo fossi piů
+Oh, se solo fossi più
 giovane...<NOD
 Che peccato...<NOD<END
 
@@ -77,10 +77,10 @@ Come se quello dovesse spaventarmi.<NOD<END
 <KEY<FLJ1020:0231
 <EVE0299
 #0231
-<MSGSono cosě esausto...<NOD<END
+<MSGSono così esausto...<NOD<END
 
 #0250
-<KEY<MYB0000<MSGOh, hey.<NOD<CLRNon ci siamo giŕ incontrati?<NOD
+<KEY<MYB0000<MSGOh, hey.<NOD<CLRNon ci siamo già incontrati?<NOD
 Si, nel Villaggio dei
 Mimiga.<NOD
 Una tizia chiamata "Misery" mi ha 

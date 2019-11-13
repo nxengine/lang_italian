@@ -57,7 +57,7 @@ Tu prendi quel lato.<NOD<CLO
 <ANP0300:0020:0000<END
 #0301
 <KEY<ANP0300:0000:0000
-<MSG<FAC0019Che c'č?<NOD
+<MSG<FAC0019Che c'è?<NOD
 Non avrai mica paura,
 vero?<NOD<CLRNe dubito.<NOD
 Su, andiamo, prendi 
@@ -65,7 +65,7 @@ quel lato.<NOD<ANP0300:0020:0000<END
 #0302
 <PRI<MSGE' completamente priva di sensi.<NOD<END
 #0303
-<PRI<MSG<FAC0019Andiamo?<NOD<CLRC'č un intero nido 
+<PRI<MSG<FAC0019Andiamo?<NOD<CLRC'è un intero nido 
 di mostri che ci aspetta!!<NOD<END
 
 
@@ -90,7 +90,7 @@ Hai sconfitto Balrog!<WAI0140<NOD<CLO<FAC0000
 <CNP0511:0334:0002<WAI0100
 <MSG<FAC0020.....<NOD<CLO<FAC0000
 <ANP0300:0000:0000<WAI0050<MYD0002
-<MSG<FAC0025Non si č mosso di un 
+<MSG<FAC0025Non si è mosso di un 
 millimetro.<NOD
 Non sono sicura 
 che noi due siamo forti
@@ -107,7 +107,7 @@ dal Labirinto!<NOD<CLRNon dovreste starvene
 buoni e fermi come dei 
 graziosi robottini?<NOD<CLR
 Non potete andare contro il
-mio padrone, nč piů nč meno 
+mio padrone, nè più nè meno 
 di come non posso farlo io,
 sapete.<NOD<CLRVa bene, allora!<NOD
 Tempo di chiudere la 
@@ -143,12 +143,12 @@ Puoi sentire il vento soffiare
 da dietro.<NOD
 Sembra che ci vogliano
 almeno due persone per smuoverla,
-perň.<NOD<END
+però.<NOD<END
 #0501
 <KEY<WAI0010
 <ANP0300:0000:0000
 <MSG<FAC0020Puoi tenerla 
-di piů verso l'altro 
+di più verso l'altro 
 lato?<NOD<CLO
 <ANP0300:0020:0000<END
 #0502
@@ -163,10 +163,10 @@ lato?<NOD<CLO
 <SMC<CMU0008<CNP0330:0012:0002<ANP0300:0000:0002
 <MNP0320:0000:0000:0000
 <FAI0004
-<MSG<FAC0005Avete vinto...<NOD<CLRVi sposterň il masso.<NOD
+<MSG<FAC0005Avete vinto...<NOD<CLRVi sposterò il masso.<NOD
 Ma ricordate...<NOD<ANP0330:0000:0000<CLRNon dite A NESSUNO
 che vi ho aiutati.<NOD<CLR<FAC0019Il tuo segreto con 
-noi č al sicuro!<NOD<FAC0000<CLO
+noi è al sicuro!<NOD<FAC0000<CLO
 <ANP0330:0060:0000<WAI0040
 <ANP0330:0050:0002<WAI0020
 <MYD0003<ANP0300:0020:0000

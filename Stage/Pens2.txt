@@ -31,9 +31,9 @@ Drago.<NOD
 Sul serio?<NOD<FAO0004<TRA0018:0701:0002:0000
 #0702
 <KEY<FAI0004<MSG<FAC0001Almeno uno si.<NOD
-Ma č protetto da
+Ma è protetto da
 una password.<NOD
-C'č qualcosa che
+C'è qualcosa che
 puoi fare?<NOD<FAC0000<CLR<TURRecupero informazioni sull'utente
 "Kazuma"...<WAI0150<CLR<TURCompletato.
 Locazione: Struttura D, Grasstown<NOD
@@ -41,20 +41,20 @@ Scansione teletrasportatori operativi.<NOD<CLRPreparazione per connessione al
 teletrasportatore "Grasstown"...<NOD<CLR
 <MSG<FAC0001Beh, in ogni caso sto
 arrivando a darti una mano.<NOD
-Aspettami lě.<NOD<FAO0004<TRA0018:0702:0002:0000
+Aspettami lì.<NOD<FAO0004<TRA0018:0702:0002:0000
 #0703
 <KEY<CNP0700:0042:0000<FAI0004<MSG.....<NOD
-Quando arriverŕ qui
+Quando arriverà qui
 l'altro ragazzo...?<NOD<CLR
 <SOU0011<CNP0710:0061:0000<WAI0020<CMU0000<ANP0700:0000:0002!!<NOD
 <CLO<ANP0710:0008:0000<WAI0016<ANP0710:0000:0000
 <MSG<FAC0007Sei tornata.<NOD
 Ti stavo aspettando...<NOD<CLR<FAC0002Ah, si? E adesso?<NOD
-Ho da fare.<NOD<CLR<FAC0007Toroko č stata rapita dagli
+Ho da fare.<NOD<CLR<FAC0007Toroko è stata rapita dagli
 sgherri del Dottore.<NOD<CLR<FAC0001Che?!<NOD<CLR<FAC0009E riteniamo TE 
 responsabile!!<NOD<FAC0000<CLO
 <ANP0710:0008:0000<WAI0100<FAO0004<MSG
-<FAC0003Giů le mani!<NOD<CLR<FAC0007Oh no, ora vieni con noi!<NOD<TRA0001:0099:0005:0008
+<FAC0003Giù le mani!<NOD<CLR<FAC0007Oh no, ora vieni con noi!<NOD<TRA0001:0099:0005:0008
 <END
 <END
 #0704

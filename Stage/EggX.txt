@@ -59,7 +59,7 @@ quest'isola!<NOD<CLO<FAC0000<MYD0002
 <ANP0200:0005:0002<WAI0050
 <MSG<FAC0001Condizioni dell'Uovo: 
 Normali!
-Queste sě che sono belle
+Queste sì che sono belle
 notizie!<NOD<CLO<WAI0050<SOU0043<WAI0020<FAC0000
 <MSG<FAC0002Hm?<NOD Una password?<NOD<FAC0000<CLO
 <WAI0050
@@ -68,7 +68,7 @@ notizie!<NOD<CLO<WAI0050<SOU0043<WAI0020<FAC0000
 una password per 
 fare schiudere quest'uovo.<NOD<CLR<FAC0002Grr, diamine.<NOD<CLRSe solo mio fratello fosse
 qui, lui saprebbe
-cosa fare.<NOD<CLR.....<NOD<CLR<FAC0001Vabbč, sembra che per ora 
+cosa fare.<NOD<CLR.....<NOD<CLR<FAC0001Vabbè, sembra che per ora 
 qui non ci sia 
 molto altro da fare.<NOD<CLO
 <ANP0200:0003:0000<WAI0126
@@ -77,8 +77,8 @@ molto altro da fare.<NOD<CLO
 vero?<NOD<CLRNon sembri di qui,
 non proprio.<NOD
 Le parole sul tuo berretto
-lě...<NOD
-Non č una delle lingue
+lì...<NOD
+Non è una delle lingue
 che si parlano su questa
 isola.<NOD<CLR
 ...ti sei perso?<NOD<CLRVa tutto bene.<NOD

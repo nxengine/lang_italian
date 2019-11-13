@@ -62,7 +62,7 @@ aiutandoti con una corda.<NOD<END
 <PRI<MS3Sapevi che la strega 
 Jenka una volta aveva un fratello?<NOD
 Si chiamava Ballos.<NOD
-Cosě come la sorella, possedeva 
+Così come la sorella, possedeva 
 poteri ben superiori a quelli 
 dei comuni mortali...<NOD<END
 
@@ -71,6 +71,6 @@ dei comuni mortali...<NOD<END
 <PRI<MS3Lui usava i suoi poteri
 per aiutare e guidare le persone,<NOD
 e le persone lo contraccambiavano 
-con il loro rispetto ed affetto.<NOD<CLRAddirittura piů di quanto
+con il loro rispetto ed affetto.<NOD<CLRAddirittura più di quanto
 facessero con il loro Re...<NOD<END
 

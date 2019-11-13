@@ -23,25 +23,25 @@
 <FLJ1080:0201
 <MSG*Gnam gnam*...<NOD<CLR!<NOD<CLO
 <MYB0000<ANP0200:0002:0004<WAI0030<MYD0000<FL+1080<FL-1025<FL+1026
-<MSGOh, guarda chi si č svegliato.<NOD<CLRPareva fossi morto.
+<MSGOh, guarda chi si è svegliato.<NOD<CLRPareva fossi morto.
 Non ti sei mosso nemmeno quando
-Sue si č messa a schiaffeggiarti 
-in quel modo.<NOD<CLRQuesta č la galera.<NOD
+Sue si è messa a schiaffeggiarti 
+in quel modo.<NOD<CLRQuesta è la galera.<NOD
 Quelli che tentano di ribellarsi 
 contro il Dottore
 vengono schiaffati qui.<NOD
 Per essere poi cavie per
-i suoi esperimenti...<NOD<CLR...questo č quello che ha 
+i suoi esperimenti...<NOD<CLR...questo è quello che ha 
 detto Sue.<NOD<CLRSei un suo amico?<NOD
 Sei un po' in ritardo.<NOD
-Era qui con noi.<NOD<CLRSi č presa cura di te per
+Era qui con noi.<NOD<CLRSi è presa cura di te per
 tutto il tempo.<NOD
 Ma giusto poco fa,
 sono venuti e se la sono
 portata via.<NOD<EVE0209
 
 #0201
-<MSG<FL+1081Oh, sě.<NOD<CLRPrima che se la portassero via,
+<MSG<FL+1081Oh, sì.<NOD<CLRPrima che se la portassero via,
 ho visto che ti ha infilato 
 qualcosa in tasca.<NOD<CMP0024:0016:0066<EVE0209
 

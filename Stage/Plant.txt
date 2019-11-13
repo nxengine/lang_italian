@@ -31,10 +31,10 @@
 <PRI<LI+1000<SOU0020<AE+<MSGEnergia ripristinata.<NOD<END
 
 #0200
-<KEY<MSGQuesta č la nostra fattoria.
+<KEY<MSGQuesta è la nostra fattoria.
 Qui coltiviamo fiori.<NOD
 Io la tengo d'occhio.<NOD<CLRPer noi Mimiga questi fiori sono
-una forma di sostentamento.<NOD<CLRPerň stiamo lontani dai
+una forma di sostentamento.<NOD<CLRPerò stiamo lontani dai
 fiori rossi.<NOD<CLRSe mangi un fiore rosso,
 si dice ti ribollisca il sangue, e poi caschi a terra morto!<NOD<CLRMeno male che qui non 
 ne coltiviamo.<NOD<END

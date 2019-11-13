@@ -19,5 +19,5 @@
 <KEY<FL+0470<MSG<GIT1007Inserita la =ID Card=.<NOD<GIT0000<CLR
 <SOU0043Scudo abbassato.<NOD<END
 #0202
-<KEY<MSG<TURLo scudo č abbassato.<NOD<END
+<KEY<MSG<TURLo scudo è abbassato.<NOD<END
 

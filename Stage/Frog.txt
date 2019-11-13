@@ -26,7 +26,7 @@
 <MSG<FAC0000<FAC0015Oh?<NOD<FAC0000<CLO
 <ANP0500:0013:0002<WAI0050<ANP1000:0008:0000
 <MSG<FAC0015Ci incontriamo di nuovo.<NOD
-Ti ricordi?<NOD<CLRMa sě, nel Villaggio dei
+Ti ricordi?<NOD<CLRMa sì, nel Villaggio dei
 Mimiga...<NOD<CLRPrima non ci avevo fatto 
 caso, ma...<NOD<CLRTu non sei un soldato
 della superficie?<NOD<CLRNon sapevo ne fossero 
@@ -34,7 +34,7 @@ rimasti.<NOD<FAC0000<CLO
 <CNP0201:0009:0002<WAI0088<MYD0000<WAI0050<CMU0011
 <CNP0201:0012:0002<ANP0201:0000:0002
 <MSG<FAC0005Misery!<NOD<CLRStai attenta, quello sa
-il fatto suo!<NOD<CLRE' addirittura piů 
+il fatto suo!<NOD<CLRE' addirittura più 
 forte di un Mimiga!<NOD<CLR<FAC0015Non mi dire.<NOD<FAC0000<CLO
 <WAI0020<ANP0500:0025:0000<WAI0050<ANP0201:0040:0002<MSG
 <FAC0023!!!<NOD<CLR<FAC0015Beh, i SOLDATI sono 

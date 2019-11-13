@@ -46,8 +46,8 @@
 <FLJ0325:0202
 <FLJ0154:0201
 <KEY<MSGDelle parole illuminano lo 
-schermo...<NOD<CLR<TUR"...se dovrň farlo, comunque,
-lo farň davvero..."<NOD<FLJ0153:0000<CLR<MSGVuoi attivare il teletrasporto 
+schermo...<NOD<CLR<TUR"...se dovrò farlo, comunque,
+lo farò davvero..."<NOD<FLJ0153:0000<CLR<MSGVuoi attivare il teletrasporto 
 verso il Corridoio delle Uova?<YNJ0000<CLRAccesso al Corridoio delle Uova 
 permesso.<NOD<FL+0153<PS+0001:6001<END
 #0201
@@ -80,19 +80,19 @@ Dirigiti verso il Corridoio delle Uova.
 
 #0600
 <FLJ0325:0601
-<KEY<MSG<FAC0009Bentornato.<NOD<CLRSue č tornata.<NOD
+<KEY<MSG<FAC0009Bentornato.<NOD<CLRSue è tornata.<NOD
 E' stata messa sotto 
 chiave dentro la gabbia 
-lŕ fuori.<NOD
+là fuori.<NOD
 Quando si presenteranno 
 gli sgherri del Dottore, 
 proveremo a riprenderci 
 Toroko.<NOD
 Capisci, in cambio
 di Sue.<NOD<CLRSo che 
-non č molto carino,
-ma Toroko č una di noi.<NOD
-Questo č quello che ottieni 
+non è molto carino,
+ma Toroko è una di noi.<NOD
+Questo è quello che ottieni 
 quando fai di testa tua.<NOD<END
 #0601
 <KEY<MSG<FAC0009Spero che Toroko sia 
@@ -108,7 +108,7 @@ salva...<NOD<END
 <ANP0621:0030:0000<WAI0100
 <MSG<FAC0018Oooohh...<NOD<CLR<FAC0010...Tutto bene?<NOD<CLO<FAC0000
 <WAI0030<ANP0621:0000:0002
-<MSG<FAC0018...mmm.<NOD<CLRTutta la mia vita mi č 
+<MSG<FAC0018...mmm.<NOD<CLRTutta la mia vita mi è 
 passata davanti agli occhi.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
 <ANP0500:0000:0000<WAI0030
 <ANP0102:0000:0002<SOU0011
@@ -116,19 +116,19 @@ passata davanti agli occhi.<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
 <MSG<FAC0001Kazuma!!<NOD<ANP0622:0000:0002<CLRE il Professor Booster!<NOD<CLR<FAC0018Oh!<NOD<CLO<FAC0000
 <ANP0621:0003:0002<WAI0080
 <ANP0621:0000:0002
-<MSG<FAC0018State bene, allora?!<NOD<CLR<FAC0001Beh, piů o meno.<NOD<CLO<FAC0000
+<MSG<FAC0018State bene, allora?!<NOD<CLR<FAC0001Beh, più o meno.<NOD<CLO<FAC0000
 <CNP0624:0061:0000
 <ANP0625:0003:0000<WAI0016
 <ANP0624:0008:0000<WAI0016
 <ANP0624:0000:0000
 <SOU0011<ANP0102:0000:0000<WAI0048
 <ANP0625:0000:0000
-<MSG<FAC0007.....<NOD<CLR<FAC0018Chi č quel Mimiga?<NOD<CLO<FAC0000
+<MSG<FAC0007.....<NOD<CLR<FAC0018Chi è quel Mimiga?<NOD<CLO<FAC0000
 <WAI0030
 <ANP0625:0000:0002<WAI0030
 <ANP0624:0000:0002<WAI0050
 <ANP0625:0000:0000<WAI0020
-<MSG<FAC0001Quello č King.<NOD<CLRUn mio amico di questo
+<MSG<FAC0001Quello è King.<NOD<CLRUn mio amico di questo
 villaggio.<NOD<CLRIn passato c'erano un 
 sacco di Mimiga qui.<NOD
 Quasi tutti sono stati
@@ -149,12 +149,12 @@ Se non facciamo presto
 qualcosa...<NOD<END
 #0622
 <KEY<FLJ0158:0632<MSG<FAC0010Grazie per il tuo aiuto.<NOD<CLRIl nostro mezzo di 
-trasporto non č proprio 
+trasporto non è proprio 
 sopravvissuto, ma almeno
-noi... sě.<NOD<END
+noi... sì.<NOD<END
 #0624
 <KEY<FLJ0158:0634<MSG<FAC0007Toroko come arma assassina?<NOD
-No! Non lo permetterň mai!<NOD<END
+No! Non lo permetterò mai!<NOD<END
 #0625
 <KEY<FLJ0158:0635<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
 <FAC0001Bentornato!<NOD<CLRSembra che sia di nuovo
@@ -175,30 +175,30 @@ nostra fuga.<NOD<CLRIl Dottore ha localizzato
 i Fiori Rossi.<NOD<ANP0624:0000:0000<CLR
 <FAC0007!!!<NOD<CLR<FAC0001Cosa?<NOD<CLR<FAC0018Per quanto non sia ancora
 riuscito a metterci le
-mani sopra, ormai č 
+mani sopra, ormai è 
 questione di tempo.<NOD La 
-locazione č la Zona di 
+locazione è la Zona di 
 Sabbia.<NOD<CLRPare che i fiori rossi si
-possano trovare lě da 
+possano trovare lì da 
 qualche parte.<NOD<CLR
-<FAC0007La Zona di Sabbia?<NOD<CLRVuoi dire che č lŕ che
-troveremo il Dottore?<NOD<CLR<FAC0018Beh,<NOD piů probabilmente
+<FAC0007La Zona di Sabbia?<NOD<CLRVuoi dire che è là che
+troveremo il Dottore?<NOD<CLR<FAC0018Beh,<NOD più probabilmente
 uno dei suoi tirapiedi.<NOD
 Se non distruggiamo questi
 fiori prima che possano
 impossessarsene...<NOD<CLRE comunque, la Zona di 
-Sabbia č troppo pericolosa.<NOD
+Sabbia è troppo pericolosa.<NOD
 Anche supponendo che 
 tentassimo il viaggio,<NOD
-non vi č alcuna garanzia 
+non vi è alcuna garanzia 
 che ne ritorneremmo vivi...<NOD<CLR
-<FAC0007Vuoi arrenderti cosě?<NOD<CLR<FAC0018A dire il vero...<NOD<CLRTra di noi c'č qualcuno
+<FAC0007Vuoi arrenderti così?<NOD<CLR<FAC0018A dire il vero...<NOD<CLRTra di noi c'è qualcuno
 che sembra perfetto per 
 questo lavoro.<NOD<CLO<FAC0000
 <ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
 <ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
 <MSG<FAC0018LUI.<NOD<CLR
-<CMU0002<FAC0010...lui CHI?<NOD<CLR<FAC0018Per dirla tutta...<NOD<CLRQuesto č uno dei robot
+<CMU0002<FAC0010...lui CHI?<NOD<CLR<FAC0018Per dirla tutta...<NOD<CLRQuesto è uno dei robot
 da attacco e ricognizione 
 inviati su quest'isola
 10 anni fa.<NOD<CLR<FAC0010Un robot?!<NOD<CLR<FAC0018Pensavo che fossero
@@ -213,7 +213,7 @@ di Sabbia.<NOD<CLR<FAC0018Capisco.<NOD<CLO<FAC0000
 <ANP0622:0003:0000<WAI0015
 <ANP0622:0000:0002
 <ANP0621:0000:0002<WAI0030<MSG<FAC0018Sei certamente il 
-piů adatto ad esplorare
+più adatto ad esplorare
 quest'isola.<NOD<CLRTi prego. Aiutaci..<NOD<FL+0158<PS+0003:6003<END
 
 
@@ -237,7 +237,7 @@ ben costruito.<NOD<END
 pulita dei fiori, dovremmo 
 riuscire a prevenire
 la guerra... per adesso.<NOD<CLRE' una grande 
-responsabilitŕ.<NOD<END
+responsabilità.<NOD<END
 
 
 #0650
@@ -263,7 +263,7 @@ i fiori rossi.<NOD<CLR...tutti i Mimiga
 dell'isola sono 
 caduti nelle sue
 mani.<NOD<CLRE quindi, la tragedia 
-č ormai inevitabile...<NOD<CLRAvrei almeno dovuto 
+è ormai inevitabile...<NOD<CLRAvrei almeno dovuto 
 lasciare andare Sue quando
 ne ebbi l'occasione...<NOD<CLO<FAC0000
 <ANP0650:0003:0002<WAI0022
@@ -276,14 +276,14 @@ Hai ottenuto il =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
 mia ultima 
 richiesta.<NOD<CLRSe dovessi rivedere Sue,<NOD
 voglio che la prenda con te
-e che scappiate dall'isola.<NOD<CLRQuella ragazza č la figlia 
+e che scappiate dall'isola.<NOD<CLRQuella ragazza è la figlia 
 di Sakamoto,<NOD
 e non voleva venire qui
 a prescindere, era 
 contraria.<NOD
 Ma non potevamo lasciare
 sola la bambina,<NOD
-perciň non abbiamo avuto 
+perciò non abbiamo avuto 
 altra scelta che portarla 
 con noi.<NOD<CLR
 Ti prego.<NOD<CLRPrendi con te quella 
@@ -297,7 +297,7 @@ fuggite da quest'isola...<NOD
 Ti prego...<NOD<END
 #0661
 <KEY<MSG<FAC0018Sono davvero dispiaciuto
-per il caos che č successo
+per il caos che è successo
 nella tua isola.<NOD<CLRSiamo noi umani a doverci
 assumere la colpa.<NOD<END
 

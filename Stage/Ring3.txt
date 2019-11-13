@@ -41,7 +41,7 @@
 <CMP0002:0014:0021
 <CMP0003:0014:0021
 <CMP0003:0015:0021<MS3
-Basta cosě!!<WAI0020<NOD<CLO
+Basta così!!<WAI0020<NOD<CLO
 <CNP0400:0067:0000<WAI0100
 <ANP0400:0013:0000<WAI0050
 <CNP0400:0082:0000<WAI0004
@@ -51,14 +51,14 @@ Basta cosě!!<WAI0020<NOD<CLO
 <MS3<FAC0026Se ti sta a cuore la sua 
 vita, allonanati dal 
 nucleo.<NOD<CLO<FAC0000
-<MYB0002<WAI0050<MS3<FAC0016Hmph!<NOD<CLRE cosě anche un robot puň 
+<MYB0002<WAI0050<MS3<FAC0016Hmph!<NOD<CLRE così anche un robot può 
 prendersi a cuore le vite 
 degli altri.<NOD<CLRSei davvero diverso 
 dagli altri che vennero 
 qui molti anni fa.<NOD<CLR<FAC0015Non avrei mai immaginato 
 che avresti potuto 
 battere il nuovo
-padrone...<NOD<CLR...Beh, cosě sia.<NOD<CLRTi faccio una proposta.<NOD<CLRPotete morire assieme
+padrone...<NOD<CLR...Beh, così sia.<NOD<CLRTi faccio una proposta.<NOD<CLRPotete morire assieme
 con l'isola,<NOD<CLRo potete andarvene e
 dimenticarvi che 
 siete venuti...<NOD<CLRSe mi prometti di andartene
@@ -70,7 +70,7 @@ Altrimenti...<WAI0050<CLO<FAC0000
 <MS3?<NOD<CLO
 <MS2
 Non potrai scappare...<NOD<CLO
-<MS3<FAC0015Chi c'č lŕ?!<NOD<CLO
+<MS3<FAC0015Chi c'è là?!<NOD<CLO
 <CNP0420:0281:0000<WAI0002
 <ANP0420:0010:0000
 <MS2<CMU0034*risolino*...<NOD
@@ -80,25 +80,25 @@ la voce del tuo padrone?...<NOD<CLO
 <ANP0400:0000:0002<MS3
 <FAC0015!!<NOD<CLO<FAC0000
 <MS2Hoh-hoh-hoh...<NOD<CNP0410:0042:0000<CLRIl potere del
-Cristallo Rosso č 
+Cristallo Rosso è 
 effettivamente stupefacente.<NOD
-Lo sento giŕ dentro di me...<NOD<ANP0410:0000:0002<CLRIl mio corpo sarŕ pur conciato 
+Lo sento già dentro di me...<NOD<ANP0410:0000:0002<CLRIl mio corpo sarà pur conciato 
 male,<ANP0410:0020:0000
-ma la mia coscienza non č mai
-stata cosě nitida.<NOD<CLRMi sento come se fossi diventato 
+ma la mia coscienza non è mai
+stata così nitida.<NOD<CLRMi sento come se fossi diventato 
 un superuomo!<NOD<CLO
 <MS3<FAC0026Tu...<NOD<CLO
 <MS2
-.....<NOD<CLRChe c'č che non va, Misery?<NOD
+.....<NOD<CLRChe c'è che non va, Misery?<NOD
 La mia forma ti spaventa?<NOD<CLO
 <MS3<FAC0026Grr!<NOD<CLRNon sei morto?<NOD
 Sparisci!!<NOD<CLO<FAC0000
 <ANP0400:0040:0002<WAI0100
 <MS2Tut-tut-tut...<NOD<CLRUna sciocca che si dimentica
-del suo padrone non č degna
+del suo padrone non è degna
 di avere libero arbitrio.<NOD<CLRMisery.<NOD
 Sarai il mio burattino
-finchč non morirai.<NOD<CLO
+finchè non morirai.<NOD<CLO
 <MNP0420:0030:0013:0000<WAI0100
 <ANP0400:0050:0002
 <MS3<FAC0026
@@ -142,7 +142,7 @@ Oh no...<NOD<CLO<FAC0000
 <DNP0450<SMC
 <MS3<FAC0002L'isola sta cominciando a 
 collassare!<NOD<CLRTra molto poco questo
-posto si sbriciolerŕ!!<NOD<CLRDobbiamo andarcene
+posto si sbriciolerà!!<NOD<CLRDobbiamo andarcene
 da qui!<NOD<CLO
 <ANP0451:0030:0000<WAI0100<DNP0451
 <FL+1273<FL+1341<FL+1390<FL+1391<FL+1392

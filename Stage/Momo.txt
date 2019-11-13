@@ -57,21 +57,21 @@ i semi, ai suoi occhi
 divenni completamente 
 inutile.<NOD
 Quindi mi fece scaraventare 
-fuori dall'Isola.<NOD<CLRLa cavalleria č morta,
-non c'č che dire.<NOD<CLRMa quello non ha
+fuori dall'Isola.<NOD<CLRLa cavalleria è morta,
+non c'è che dire.<NOD<CLRMa quello non ha
 proprio avuto senso.<NOD<CLRIn questo momento sto
 costruendo un missile,<NOD
 uno che possa portarti 
 dritto su nella stanza 
 del Trono del Dottore.<NOD
 Mi mancano ancora delle
-parti, perň.<NOD<CLO
+parti, però.<NOD<CLO
 <ITJ0018:0202<ITJ0023:0203<EVE0201
 
 #0201
 <ITJ0018:0202<ITJ0023:0203
 <MSG<FAC0022Quello che mi serve ora
-come ora č un Booster.<NOD
+come ora è un Booster.<NOD
 Ora, se avessi uno di
 questi...<NOD<END
 
@@ -109,7 +109,7 @@ per ora.<NOD<FAC0000
 <MSG<FAC0022Delizioso. Alquanto 
 incantevole.<NOD
 Magari calza 
-un pň larga ma...<NOD<CLRI Mimiga che lavorano
+un pò larga ma...<NOD<CLRI Mimiga che lavorano
 i campi non possono
 parlare con gli umani.<NOD
 Ma con quella maschera
@@ -125,7 +125,7 @@ allontanato molto.<NOD<END
 
 #0207
 <MSG<FL+1027<FL+1028<FAC0022Per completare il razzo,
-Mi servirŕ molta
+Mi servirà molta
 corrente elettrica.<NOD
 Se potessi mettere le mani 
 su uno di questi 
@@ -137,7 +137,7 @@ fare qualcosa.<NOD<CLRPer favore, procurami uno
 
 #0208
 <KEY<MSG<FAC0022Per completare il razzo
-mi servirŕ abbondante
+mi servirà abbondante
 energia elettrica.<NOD
 Gli spruzzatori che usano
 nei campi potrebbero fare
@@ -160,27 +160,27 @@ un uomo chiamato Itoh.<NOD<CLRE' un "ingegnere di
 considerevole talento",
 per usare le sue 
 stesse parole.<NOD<CLRSi da anche il caso che
-sia uno dei uomini piů 
+sia uno dei uomini più 
 timorosi che abbia
 mai conosciuto.<NOD
 E' fuggito via dal Dottore
 immediatamente,
-ma non puň essere lontano.<NOD<END
+ma non può essere lontano.<NOD<END
 
 #0211
 <MSG<FL+1103<FAC0022Bentornato.<NOD<CLRHai trovato Itoh?<NOD<CLR
-<FAC0000<GIT1027<IT-0027Le dai il =Controllore=.<NOD<CLR<FAC0022Sě sě, č proprio questo.<NOD
-Questo č il controllore di
+<FAC0000<GIT1027<IT-0027Le dai il =Controllore=.<NOD<CLR<FAC0022Sì sì, è proprio questo.<NOD
+Questo è il controllore di
 cui va tanto fiero.<NOD<GIT0000<CLRHmmm...<NOD<CLRL'analisi sarebbe molto
-piů semplice se lui fosse 
+più semplice se lui fosse 
 qui con noi.<NOD<CLRBeh, in qualche modo
-m'arrangerň.<NOD<EVE0212
+m'arrangerò.<NOD<EVE0212
 
 
 #0212
-<KEY<MSG<FAC0022Grazie mille.<NOD<CLRMi ci vorrŕ un po' prima
+<KEY<MSG<FAC0022Grazie mille.<NOD<CLRMi ci vorrà un po' prima
 che finisca,<NOD
-perchč non ti fai un
+perchè non ti fai un
 sonnellino su quel 
 letto?<NOD<END
 

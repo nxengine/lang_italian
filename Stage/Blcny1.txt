@@ -38,7 +38,7 @@ giunti qui...<NOD<END
 <FAO0004Fine.<NOD<CLO<CMU0033<CRE<WAI9999<END
 
 #0200
-<KEY<MYD0000<DNP0200<WAS<MSGSe vai piů avanti
+<KEY<MYD0000<DNP0200<WAS<MSGSe vai più avanti
 rischi di cadere!<NOD<END
 
 #0201

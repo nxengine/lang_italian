@@ -23,7 +23,7 @@
 
 #0200
 <PRI<MSG<TUR
-Ormai non puň tornare indietro...<NOD<END
+Ormai non può tornare indietro...<NOD<END
 
 
 
@@ -41,7 +41,7 @@ sanno essere terribili...<NOD<END
 <DNP0901<SKJ0023:0000<SK+0023
 <PRI<MS3Sotto l'estremo strazio
 della tortura, alla fine le 
-abilitŕ magiche di Balloss 
+abilità magiche di Balloss 
 finirono fuori controllo.<NOD
 Il re fu inghiottito da un
 turbine magico e distrutto

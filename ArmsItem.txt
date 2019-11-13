@@ -58,8 +58,8 @@ un raggio laser.<WAI9999<END
 
 #1200
 <MSG<TURCane di Jenka e leader del branco.
-Si č perso mentre era alla ricerca dei 
-suoi fratelli, ed č stato accolto da Curly.<WAI9999
+Si è perso mentre era alla ricerca dei 
+suoi fratelli, ed è stato accolto da Curly.<WAI9999
 #1201
 <MSG<TURCane di Jenka. Adora la caccia al tesoro.
 O meglio, i *tesori stessi*: gli piace 
@@ -70,7 +70,7 @@ della sua vista un po' scarsa, vaga nel buio
 orientandosi unicamente tramite l'istinto.<WAI9999<END
 #1203
 <MSG<TURCane di Jenka. Goloso di ossa, ne sotterra 
-ovunque... dimenticandosi perň dove.<WAI9999<END
+ovunque... dimenticandosi però dove.<WAI9999<END
 #1204
 <MSG<TURCane di Jenka. Dorme tutto il santo giorno,
 ma si dice che i suoi sogni siano capaci di 
@@ -178,13 +178,13 @@ tesoro per anni.<WAI9999<END
 #6005
 <MSG<TURA Una zanna tagliente.
 Trovata nella Fattoria Yamashita. 
-Forse il suo padrone sarŕ ancora vivo...?<WAI9999<END
+Forse il suo padrone sarà ancora vivo...?<WAI9999<END
 #6006
 <MSG<TURUna capsula della vita.<WAI9999<END
 #6007
 <MSG<TURUna ID Card trovata dentro l'uovo No. 06.<WAI9999<END
 #6008
-<MSG<TURFluido che puň estinguere il fuoco 
+<MSG<TURFluido che può estinguere il fuoco 
 dei camini.<WAI9999<END
 #6009
 <MSG<TURUna chiave arrugginita.<WAI9999<END
@@ -205,28 +205,28 @@ roba del genere.<WAI9999<END
 <FLJ3004:1204
 <MSG<TURIl cagnolino di Jenka.<WAI9999<END
 #6015
-<KEY<MSGQuesto oggetto ti ricaricherŕ 
+<KEY<MSGQuesto oggetto ti ricaricherà 
 la barra dell'energia, ma solo 
 una volta. Vuoi usarlo?<YNJ0000<LI+1000<SOU0020<IT-0015<MSG
 Energia ristorata.<FRE<WAI9999<END
 #6016
-<MSG<TURApparentemente questo puň 
+<MSG<TURApparentemente questo può 
 curare qualunque cosa...<WAI9999<END
 #6017
 <MSG<TURDice "Clinica del Labirinto".<WAI9999<END
 #6018
 <FLJ0742:7018
 <KEY<MSGPremi il pulsante Salto a 
-mezz'aria per volare ancora piů 
+mezz'aria per volare ancora più 
 in alto.<NOD<CLR
 Vuoi equipaggiarlo?<YNJ0000<EQ+0001<FL+0742<EQ-0032<FL-0743<MSG
 Booster equipaggiato.<NOD<WAI0003<FRE<EVE5018
 #6019
 <MSG<TURQuando vieni colpito, l'ammontare di 
-energia perso dall'arma verrŕ dimezzato.<WAI9999<END
+energia perso dall'arma verrà dimezzato.<WAI9999<END
 #6020
 <MSG<TURPermette alla mitragliatrice di 
-ricaricarsi piů velocemente.<WAI9999<END
+ricaricarsi più velocemente.<WAI9999<END
 #6021
 <MSG<TURCon questo puoi respirare 
 sott'acqua. Lo usava Curly.<WAI9999<END
@@ -251,21 +251,21 @@ Sono Sue.<NOD<CLRNon credo di averti mai
 parlato molto di noi.<NOD<CLR<TURSiamo approdati su quest'isola dalla 
 superficie per motivi di ricerca.<NOD
 Il Prof. Booster era con noi,<NOD<CLR
-cosě come mia madre, mio fratello,vari 
+così come mia madre, mio fratello,vari 
 assistenti... ed anche Il Dottore.<NOD<CLR
-Era lě per assisterci come 
-medico, e cosě fece...<NOD<CLR
-Almeno, finchč non trovň 
+Era lì per assisterci come 
+medico, e così fece...<NOD<CLR
+Almeno, finchè non trovò 
 la Corona Demoniaca.<WAI0020
 <NOD<CLRQuella Corona, una volta 
-proprietŕ del capo di quest'isola,<NOD<CLR
+proprietà del capo di quest'isola,<NOD<CLR
 conferisce dei poteri magici 
 mostruosi a chi la indossa...<NOD<CLR
 Il Dottore ne era a 
 conoscenza ancor prima di arrivare,<NOD<CLR
-e proprio per questo si č infiltrato 
+e proprio per questo si è infiltrato 
 nel nostro gruppo.<NOD<CLR
-Non appena riuscě a mettere le mani 
+Non appena riuscì a mettere le mani 
 sulla Corona divenne inarrestabile.<NOD<CLR
 Fummo costretti a continuare 
 la nostra ricerca sotto i suoi ordini.<NOD<CLR
@@ -279,19 +279,19 @@ In ogni caso, io sono
 riuscita a fuggire ma gli altri colleghi...<NOD<CLR
 Ora sta usando i Mimiga per coltivare i 
 Fiori Rossi.<NOD<CLR
-Non appena sarŕ pronto ad attaccare 
-glieli farŕ mangiare, rendendoli delle<NOD<CLR
+Non appena sarà pronto ad attaccare 
+glieli farà mangiare, rendendoli delle<NOD<CLR
 armi omicide.<NOD<CLR
-E ciň vuol dire che anche io, sarň...<NOD<CLR
+E ciò vuol dire che anche io, sarò...<NOD<CLR
 Se riesci ad evadere da questa cella, cerca 
 il Nascondiglio nascosto nella Piantagione.<NOD<CLR
-Se mia madre č ancora sana e salva...<NOD<CLR
-starŕ sicuramente studiando un piano per 
+Se mia madre è ancora sana e salva...<NOD<CLR
+starà sicuramente studiando un piano per 
 contrattaccare.<NOD<CLR
 Per favore. Aiuta mia madre.<NOD<CLR
-La password č 
+La password è 
 "Litagano Motscoud".<NOD<CLR<FL+1024<FRE<MSG
-La lettera finisce cosě...<WAI9999<END
+La lettera finisce così...<WAI9999<END
 #6027
 <MSG<TURNecessario per costruire un razzo.
 L'orgoglio di Itoh, il codardo.<WAI9999<END
@@ -318,7 +318,7 @@ ritornare le memorie perdute...<WAI9999<END
 Di color giallo-verde con un
 grazioso cuoricino. Non servono a nulla.<WAI9999<END
 #6036
-<MSG<TURC'č intagliata la sagoma di un alieno. 
+<MSG<TURC'è intagliata la sagoma di un alieno. 
 Non serve a nulla.<WAI9999<END
 #6037
 <MSG<TURRossetto rosso.

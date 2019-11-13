@@ -41,7 +41,7 @@
 <KEY<MSG<FAC0009Sono Jack,<NOD
 il numero due da
 queste parti.<NOD<CLRDietro questa porta
-c'č il cimitero dei 
+c'è il cimitero dei 
 Mimiga, dove riposa    
 l'eroe Arthur.<NOD<CLROh, che ci faccio 
 qui, dici?<NOD<CLRBeh, dei funghi sono
@@ -71,7 +71,7 @@ escano.<NOD<END
 
 #0111
 <KEY<FL+0327<FL+0443<MSG<FAC0009Cosa?!<NOD
-Toroko č stata rapita?<NOD
+Toroko è stata rapita?<NOD
 Oh, no!<NOD
 Devo dirlo a King
 immediatamente!<NOD<CLO
@@ -92,11 +92,11 @@ immediatamente!<NOD<CLO
 <MSGHai aperto lo scrigno.<NOD<GIT1002<IT+0002<EQ+0002<CLR
 <CMU0010Hai trovato la =Mappa Elettronica=!<WAI0160<NOD<RMU<EVE0201
 #0201                                        
-<PRI<MSGQui c'č scritto qualcosa...<NOD<CLRFinchč manterrai vivo 
+<PRI<MSGQui c'è scritto qualcosa...<NOD<CLRFinchè manterrai vivo 
 lo spirito d'esplorazione, 
 troverai senza dubbio la 
-via d'uscita. Questo č 
-ciň in cui credo.<NOD<END
+via d'uscita. Questo è 
+ciò in cui credo.<NOD<END
 
 #0300
 #0301
@@ -111,10 +111,10 @@ questo villaggio.<NOD
 Non che voglia dire
 molto, dato che siamo
 rimasti solo in sei.<NOD<CLRBeh, sette se 
-contiamo Sue.<NOD<CLRNon č una di noi,
+contiamo Sue.<NOD<CLRNon è una di noi,
 comunque.<NOD
 E' una straniera che 
-si č presentata di 
+si è presentata di 
 recente.<NOD<END
 
 #0302
@@ -122,11 +122,11 @@ recente.<NOD<END
 <MSG<FAC0007Dammi la chiave!<NOD<CLR<FAC0008No! Non voglio!<NOD<CLR<FAC0007Stai cercando di 
 proteggere Sue?<NOD
 E' un'estranea!
-Non č una di noi!<NOD<CLR<FAC0006Sue č una brava persona.<NOD
+Non è una di noi!<NOD<CLR<FAC0006Sue è una brava persona.<NOD
 Non la tradirei mai!<NOD<CLR<FAC0007Toroko...<NOD
-Quando arriverŕ il 
-Dottore, sai giŕ che 
-porterŕ via di nuovo 
+Quando arriverà il 
+Dottore, sai già che 
+porterà via di nuovo 
 qualcuno...<NOD
 Se non gli diamo Sue, 
 potrebbe prendere te 
@@ -171,7 +171,7 @@ tanto facilmente!<NOD<END
 <FLJ0120:0312
 <FLJ0360:0314
 <MSGOh! Mi hai spaventato...<NOD<CLRSue?<NOD
-Oh, giŕ.<NOD<CLRLa ragazza a casa di 
+Oh, già.<NOD<CLRLa ragazza a casa di 
 Arthur, vero?<NOD
 Vive con Toroko.<NOD<CLRUno zucchero di ragazza.<NOD
 Dice di stare cercando 
@@ -181,8 +181,8 @@ in cielo...
 Ma queste cose 
 esisteranno davvero?<NOD<ANP0311:0000:0002<END
 #0312
-<MSGOh, di nuovo tu.<NOD<CLRSue č stata portata sopra.<NOD
-Dicono che č lei la responsabile 
+<MSGOh, di nuovo tu.<NOD<CLRSue è stata portata sopra.<NOD
+Dicono che è lei la responsabile 
 per la cattura di Toroko.<NOD<ANP0311:0000:0002<END
 #0313
 <KEY<MSGCerto che si sente una certa 
@@ -191,17 +191,17 @@ confusione da casa di Arthur...
 del genere?<NOD<ANP0311:0000:0002<END
 #0314
 <KEY<MSGCosa?<NOD
-Toroko č stata rapita?<NOD<CLRBeh, questa č una brutta notizia.<NOD
+Toroko è stata rapita?<NOD<CLRBeh, questa è una brutta notizia.<NOD
 Adesso l'unica ragazza rimasta nel
-villaggio č Sue...<NOD<ANP0311:0000:0002<END
+villaggio è Sue...<NOD<ANP0311:0000:0002<END
 
 #0400
 <KEY<FL-0155<FON0400:0016<FAI0004<MNA<CMU0000<WAI0100<ANP0600:0011:0002
 <MSG<FAC0003Fammi uscire all'istante!<NOD<ANP0600:0000:0002<CLR<ANP0610:0000:0000
 <FAC0007Tieni a freno la lingua!<NOD<CLRE' COLPA TUA
-se Toroko č stata rapita!<NOD<CLR
+se Toroko è stata rapita!<NOD<CLR
 Tutto quello che possiamo
-fare č consegnarti a loro 
+fare è consegnarti a loro 
 e sperare per il meglio.
 <NOD<ANP0600:0011:0002<CLR<FAC0003Brutto fenomeno da 
 baraccone!
@@ -223,15 +223,15 @@ a pezzettini!<NOD<CLO<CMU0009
 i fiori rossi per farvi 
 attaccare gli umani.<NOD<CLR<FAC0009Perché vuol fare una cosa 
 simile?!<NOD<CLR<FAC0002Quell'uomo...
-...č come un demone.<NOD<CLR<FAC0009E ha intenzione di usare 
+...è come un demone.<NOD<CLR<FAC0009E ha intenzione di usare 
 questi fiori con Toroko?<NOD<CLR<FAC0002Per quanto ne so, li sta 
 ancora cercando.<NOD<CLRPossiamo solo sperare che 
 non li trovi.<NOD<CLR<FAC0009Se...<NOD<CLRSe dovesse trovare questi  
 fiori, Toroko...<NOD<CLR<FAC0002...impazzirebbe 
 completamente...
 diventerebbe un'arma 
-assassina...<NOD<CLR<FAC0007Non permetterň mai che
-ciň accada!<NOD<CLO
+assassina...<NOD<CLR<FAC0007Non permetterò mai che
+ciò accada!<NOD<CLO
 <FL-0154<FL+0157
 <FAO0004<TRA0001:0620:0005:0008
 
@@ -239,7 +239,7 @@ ciň accada!<NOD<CLO
 #0500
 <KEY<MSG<TUR            Su: Fattoria Yamashita
     Sinistra: Cisterna   Destra: Cimitero
-           Giů: Casa di Arthur<NOD
+           Giù: Casa di Arthur<NOD
 <END
 
 #0501
@@ -264,17 +264,17 @@ ciň accada!<NOD<CLO
 <FLJ0224:0602
 <FLJ0325:0601 
 <KEY<FL+0325<PS+0002:6002    
-<MSG<FAC0001Essě, sono incarcerata...<NOD<CLRGli sgherri del Dottore 
+<MSG<FAC0001Essì, sono incarcerata...<NOD<CLRGli sgherri del Dottore 
 hanno rapito una Mimiga
 convinti che fosse me.<NOD
-Si chiama Toroko,<NOD ed č 
+Si chiama Toroko,<NOD ed è 
 stata l'unica ad avermi 
 accolto con affetto quando 
 gli altri Mimiga non 
 volevano avere nulla a che 
 fare con me. <NODSolo lei si 
-č dimostrata dolce 
-ed amichevole.<NOD<CLR.....<NOD<CLRLo so.<NOD<CLRPerchč non vai al  
+è dimostrata dolce 
+ed amichevole.<NOD<CLR.....<NOD<CLRLo so.<NOD<CLRPerchè non vai al  
 posto mio?<NOD<CLRMio fratello si trova in un 
 posto chiamato Grasstown.<NOD
 Trovalo e portalo qui.<NOD<END
@@ -291,7 +291,7 @@ a casa di Arthur.<NOD<END
 
 #0610
 <FLJ0224:0611
-<KEY<MSG<FAC0007Questo č il fato di coloro 
+<KEY<MSG<FAC0007Questo è il fato di coloro 
 che disturbano la quiete 
 del villaggio.<NOD<END
 #0611

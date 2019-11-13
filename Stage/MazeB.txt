@@ -25,7 +25,7 @@
 #0110
 <KEY<SOU0011<ANP0110:0000:0002<FAO0002<MYD0002<TRA0044:0092:0002:0013
 
-<KEY<MSGGrazie. Per adesso č tutto.
+<KEY<MSGGrazie. Per adesso è tutto.
   2003/09/27 Studio Pixel<NOD<END
 
 #0200
@@ -67,7 +67,7 @@ per mandarti nel vero
 cuore di quest'isola.<NOD<CLRPorta questo con te.<NOD<CLR<FAC0000<IT+0018<GIT1018
 Hai ricevuto il Booster v0.8.<NOD<CLR<FAC0017
 Questo piccolo apparecchio 
-ti permetterŕ di volare.<NOD
+ti permetterà di volare.<NOD
 Se premi il pulsante
 Salto a mezz'aria, puoi
 svolazzare per un po'.<NOD<CLRApri il menu

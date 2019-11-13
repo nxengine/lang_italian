@@ -17,6 +17,6 @@
 <PRI<FAO0001<TRA0039:0091:0004:0016
 
 #0200
-<PRI<MSGE' un robot. Quel che ne č 
+<PRI<MSGE' un robot. Quel che ne è 
 rimasto, almeno.<NOD<END
 

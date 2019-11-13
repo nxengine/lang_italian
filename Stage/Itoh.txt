@@ -33,12 +33,12 @@ Uwah!<NOD<CLO
 <MSGEyaaah!!<MYB0002<NOD<CLRNon uccidermi!<NOD
 Sono umano! Sono soltanto
 stato mutato in un Mimiga
-per magia! Sono umano!<NOD<CLRHuh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028Cos'č?
+per magia! Sono umano!<NOD<CLRHuh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0028Cos'è?
 Non sei uno di quei
 robot killer?<NOD
 Beh, mi hai fatto saltare
 in aria, venendo fuori
-cosě all'improvviso!<NOD<CLRNon č che sei il
+così all'improvviso!<NOD<CLRNon è che sei il
 "salvatore" per caso?<NOD<END
 
 
@@ -49,7 +49,7 @@ degli umani approdati su
 quest'isola per fini di 
 ricerca.<NOD
 Quella strega di Misery mi
-ha trasformato cosě...<NOD
+ha trasformato così...<NOD
 Sono riuscito a fuggire,
 ma... guardami.<NOD<CLREd ora sono pure 
 bloccato qui!<NOD<CLRTu ti sei arrampicato da
@@ -63,19 +63,19 @@ a prescindere.<NOD<END
 
 #0402
 <KEY<MSG<FAC0028No, no, sicuramente
-non ti servirŕ a niente 
+non ti servirà a niente 
 l'aiuto di un 
 piccolo, patetico 
 uomo sperduto.<NOD<END
 
 
 #0403
-<KEY<MSG<FL+1003<FAC0028Itoh?<NOD Si, sono io.<NOD<CLRQuello cos'č?<NOD
+<KEY<MSG<FL+1003<FAC0028Itoh?<NOD Si, sono io.<NOD<CLRQuello cos'è?<NOD
 Sakamoto sta lavorando su
-un razzo?<NOD<CLRQuindi č ancora viva...<NOD
+un razzo?<NOD<CLRQuindi è ancora viva...<NOD
 Una donna forte, quella.<NOD
 Non come me, questo 
-č sicuro...<NOD<CLRBenone allora.<NOD
+è sicuro...<NOD<CLRBenone allora.<NOD
 Prendi questo.<NOD<FAC0000<GIT1027<IT+0027<CLR
 <CMU0010Hai ricevuto il =Controllore=.<WAI0160<NOD<RMU
 <CLR<FAC0028Credo che sia questo 

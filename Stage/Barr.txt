@@ -58,7 +58,7 @@ Hai scacciato Balrog!<WAI0140<NOD
 <KEY<FL+0360<FL+0361<FL+0440<FL-0326<MSGEeeeeek!<NOD<CLRSalvatemi, salvatemi!!<NOD<CLR.....<NODHuh?<NOD<MYB0002<WAI0030<MYD0002<CNP1000:0060:0004<CLR<FAC0006Tu non...tu non sei
 con il Dottore?<NOD<CLROh! Chiedo scusa.<NOD
 Mi hai fatto preoccupare.
-Il Dottore č un tale
+Il Dottore è un tale
 cattivone.<NOD
 Arriva qui nel villaggio
 e ci porta via,<NOD
@@ -67,7 +67,7 @@ anche...<NOD<CLRCome mio fratello.
 Ha ucciso mio fratello.<NOD<CLROh!<NOD
 Quel pendente!<GIT1004<NOD<CLRSei riuscito a trovarmelo?<NOD
 Me l'ha dato Sue!<NOD<CLR.....<NOD<CLRBeh...comunque non dovrei
-averlo piů.<NOD
+averlo più.<NOD
 <GIT0000King va sempre
 su tutte le furie 
 quando vede me e 
@@ -103,7 +103,7 @@ Ho un naso da
 segugio!<NOD<FAC0000<CLRInfatti, ce l'hai.<NOD
 <CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC0015Il naso, ed oserei
 dire anche il cervello.<NOD<CLR<FAC0005Misery!<NOD<CLRL'ho trovata prima io!<NOD<CLR<FAC0008Voi--voi tizi siete con il
-Dottore, non č cosě?<NOD<CLR<FAC0015.....<NOD<CLR<FAC0016E cosě tu sei Sue, eh?
+Dottore, non è così?<NOD<CLR<FAC0015.....<NOD<CLR<FAC0016E così tu sei Sue, eh?
 Il Dottore vuole
 vederti.<NOD
 Vieni con noi, su.<NOD<CLR<FAC0006Uh...cosa?<NOD<CLR
@@ -131,5 +131,5 @@ che tieni in mano?<YNJ1001<ANP0400:0030:0002<CLR
 
 #1001
 <KEY<FL-0362<FL-0361<CMU0008<MSG<FAC0005Huh.<NOD
-Vabbč, allora ci si vede.<NOD<CLO<ANP0400:0010:0002<END
+Vabbè, allora ci si vede.<NOD<CLO<ANP0400:0010:0002<END
 

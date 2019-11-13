@@ -32,21 +32,21 @@ Vuoi comunque teletrasportarti?<YNJ0000<CLO<FL+0524
 #0401
 <PRI<MSGFammi uscire!<NOD<END
 #0402
-<PRI<MSGIl Dottor Scemo puň andare a quel 
+<PRI<MSGIl Dottor Scemo può andare a quel 
 paese!<NOD<END
 
 #0403
-<PRI<MSGI Mimiga lŕ fuori nei campi
+<PRI<MSGI Mimiga là fuori nei campi
 sono stati raggirati da 
-incredibili menzogne!<NOD<CLRIl Dottore ci farŕ combattere
+incredibili menzogne!<NOD<CLRIl Dottore ci farà combattere
 contro i robot!<NOD<END
 #0404
 <PRI<MSGConosci una certa "Sakamoto"?<NOD
-A quanto pare č nascosta qui
+A quanto pare è nascosta qui
 da qualche parte nella piantagione...<NOD<END
 #0405
 <PRI<MSGQui c'erano pure un paio di 
-umani,ma č un po' che non si vedono
+umani,ma è un po' che non si vedono
 in giro...<NOD
 Magari se ne sono andati.<NOD<END
 

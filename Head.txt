@@ -26,7 +26,7 @@ Vita ripristinata.<NOD<CLO<RMU<FAI0004<END
 
 #0030
 <PRI<FLJ0202:0032<FLJ0201:0031<FL+0201<GIT0005<AM+0005:0010
-<CMU0010Hai trovato il =Lanciamissili=!<WAI0160<NOD<RMU<CLRIl Lanciamissili č un'arma molto 
+<CMU0010Hai trovato il =Lanciamissili=!<WAI0160<NOD<RMU<CLRIl Lanciamissili è un'arma molto 
 potente, ma ha munizioni limitate.<NOD
 Puoi rifornirti con gli oggetti 
 lasciati dai nemici.<NOD<END
@@ -54,7 +54,7 @@ Sei annegato.<NOD<CLRVuoi riprovare?<YNJ0049<CLO
 #0042
 <KEY<CMU0000<WAI0040<PRI<WAI0040<CMU0003
 <MSG<HMC
-E di te non si seppe piů nulla...<NOD<CLRVuoi riprovare?<YNJ0049<CLO
+E di te non si seppe più nulla...<NOD<CLRVuoi riprovare?<YNJ0049<CLO
 <FAO0001<WAI0050<FLJ0431:0048<INI<END
 
 #0048
@@ -65,4 +65,4 @@ E di te non si seppe piů nulla...<NOD<CLRVuoi riprovare?<YNJ0049<CLO
 
 
 XX: head.tsc   4000 - 4099
-4000:Almond…“ď
+4000:Almondï

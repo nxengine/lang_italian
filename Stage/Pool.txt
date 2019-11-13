@@ -30,7 +30,7 @@
 
 
 #0200
-<KEY<MSGSue?<NOD<CLRSě, la conosco.<NOD
+<KEY<MSGSue?<NOD<CLRSì, la conosco.<NOD
 E' quella ragazzina carina che
 se ne sta rinchiusa tutto il
 tempo a casa di Arthur, no?<NOD
@@ -39,9 +39,9 @@ tempo fa.<NOD
 L'abbiamo trovata stremata
 qui nella cisterna.<NOD
 Sembra che non le piacciamo
-granchč...<NOD
-Il che č strano, dato che
-č una Mimiga come noi.<NOD<END
+granchè...<NOD
+Il che è strano, dato che
+è una Mimiga come noi.<NOD<END
 
 #0300
 <PRI

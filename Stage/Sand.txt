@@ -70,7 +70,7 @@ nel suo compito...<CMU0000<NOD<CLO
 <MS3<FAC0015Hmmmm...<NOD<CLRSembri un buon
 combattente.<NOD<CLRMa ora come ora,
 stai dimostrando di essere
-piů che altro un fastidio.<NOD<CLR<FAC0016Vogliamo regolare i conti?<NOD<CLO<FAC0000
+più che altro un fastidio.<NOD<CLR<FAC0016Vogliamo regolare i conti?<NOD<CLO<FAC0000
 <QUA0050<WAI0020
 <MS3
 ?!<WAI0050<NOD<CLR<FAC0015No, non serve che venga
@@ -89,7 +89,7 @@ coinvolta direttamente.<NOD<CLO<ANP0206:0020:0000
 #0210
 <KEY<WAI0250<CMU0000
 <MS3<CMU0015
-Hai sconfitto Omega!<WAI0160<NOD<CLRL'incantesimo č stato rimosso 
+Hai sconfitto Omega!<WAI0160<NOD<CLRL'incantesimo è stato rimosso 
 dalle Pietre del Sole. <NOD<CLO
 <FOM0016<CMU0006
 <SMP0210:0010<SMP0210:0011<END
@@ -143,7 +143,7 @@ dalle Pietre del Sole. <NOD<CLO
 
 #0360
 <PRI<MSG<TURQui nella Zona della Sabbia, ci sono
-diversi posti dove č possibile
+diversi posti dove è possibile
 passare attraverso i muri.<NOD<CLRQuesti posti sono marcati
 con un simbolo.<NOD<END
 
@@ -177,14 +177,14 @@ E' un cane...<NOD<ITJ0014:0413<CLR
 <PRI<DNP0500<SOU0022<CMU0016
 <MSG<GIT1006Hai trovato una 
 =Capsula della Vita=!<WAI0160<NOD<RMU<ML+0005
-L'energia massima verrŕ aumentata 
+L'energia massima verrà aumentata 
 di 5 punti!<NOD<END
 
 #0501
 <PRI<DNP0501<SOU0022<CMU0016
 <MSG<GIT1006Hai trovato una 
 =Capsula della Vita=!<WAI0160<NOD<RMU<ML+0005
-L'energia massima verrŕ aumentata 
+L'energia massima verrà aumentata 
 di 5 punti!<NOD<END
 
 

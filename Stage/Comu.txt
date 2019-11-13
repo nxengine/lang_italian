@@ -43,7 +43,7 @@ Non posso crederci...<NOD
 Il fratello maggiore di 
 Toroko, Arthur, era un 
 favoloso guerriero.<NOD
-Ma č stato ucciso  
+Ma è stato ucciso  
 da uno degli sgherri
 del Dottore.<NOD
 Ed...io... 
@@ -55,7 +55,7 @@ a proteggerla...<NOD<END
 per entrare a casa di 
 Arthur.<NOD
 Toroko ne ha una.<NOD
-L'altra č nascosta nel 
+L'altra è nascosta nel 
 cimitero dei Mimiga.<NOD<END
 
 #0220
@@ -63,20 +63,20 @@ cimitero dei Mimiga.<NOD<END
 Arthur, ha combattuto 
 contro un terribile   
 mostro sanguinario...<NOD<CLRL'orribile demone che
-si nutre di Mimiga.<NOD<CLRNon č il Dottore,
-č... qualcos'altro.<NOD
+si nutre di Mimiga.<NOD<CLRNon è il Dottore,
+è... qualcos'altro.<NOD
 Questo demone ha vissuto 
 qui nell'isola per anni.<NOD<CLR
 Un giorno venne nel
 villaggio, ed Arthur<NOD
-riuscě a scacciarlo
+riuscì a scacciarlo
 da solo.<NOD
 La sua prode figura che 
 difendeva il nostro 
 villaggio dal pericolo...<NOD
-<NOD<CLRAlla fine anche lui č
+<NOD<CLRAlla fine anche lui è
 stato fatto fuori dal
-Dottore, ma rimarrŕ 
+Dottore, ma rimarrà 
 sempre un vero eroe.<NOD<END
 
 

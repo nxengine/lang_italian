@@ -25,14 +25,14 @@
 #0201
 <PRI<MSGDici che mia moglie mi
 sta cercando?<NOD<CLR
-Sě, lo so,<NOD
+Sì, lo so,<NOD
 E' un po' che non mi faccio vedere a casa.<NOD
-Vabbč, č tempo che vada.<NOD<GIT1032<DNP0200<IT+0032<CLRTi dispiace accompagnarmi?<NOD<END
+Vabbè, è tempo che vada.<NOD<GIT1032<DNP0200<IT+0032<CLRTi dispiace accompagnarmi?<NOD<END
 
 #0300
 <CNP0300:0000:0000
 <PRI<MSGLa tomba di Arthur.<NOD
-C'č una scritta sulla
+C'è una scritta sulla
 lapide:<NOD<CLR<MSG<TURQui giace il Prode Arthur,
 vero eroe dei Mimiga.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
 <CMU0010<GIT1001<IT+0001Hai trovato =La Chiave di Arthur=!<WAI0160<NOD<CLO

@@ -47,7 +47,7 @@ Cosa darei per... del pesce...<NOD<END
 #0204
 <MSGLa vecchia Jenka era a capo
 della Zona di Sabbia.<NOD
-Lei ed i suoi cuccioli.<NOD<CLRLa sua casa č...<NOD<CLRUmmmmm...<NOD<CLR...Da qualche parte nella
+Lei ed i suoi cuccioli.<NOD<CLRLa sua casa è...<NOD<CLRUmmmmm...<NOD<CLR...Da qualche parte nella
 Zona di Sabbia...?<NOD<END
 #0205
 <KEY<MSGLe nostre vere mamme sono
@@ -56,7 +56,7 @@ gli occhi aperti...<NOD
 Ma Curly ci ha cresciuti.<NOD<END
 #0206
 <KEY<MSGStai cercando i fiori rossi?<NOD
-C'č una vecchia signora chiamata
+C'è una vecchia signora chiamata
 Jenka che potrebbe saperne 
 qualcosa.<NOD<CLROh, giusto.<NOD<CLRSe vai a trovarla,
 dovresti portare con te il
@@ -113,7 +113,7 @@ Vittoria!<WAI0140<CMU0000<NOD<CLO
 <KEY<ANP0400:0006:0005<WAI0002<PRI
 <WAI0050<CMU0002
 <MSG<FAC0020Hai vinto...<NOD
-Non posso piů combattere...<NOD<CLRSuppongo che adesso
+Non posso più combattere...<NOD<CLRSuppongo che adesso
 ucciderai tutti i Mimiga,<NOD
 come hanno fatto gli
 altri robot?<YNJ0410<CLRCapisco...<NOD<CLRChe peccato...<NOD<PRI<CLO
@@ -128,7 +128,7 @@ male ad una mosca!<NOD<CLRSono Curly.
 Curly Brace.<NOD
 Quando mi sono svegliata,
 ero con questi bimbi.<NOD<CLR<FAC0025Non ho memorie di  
-ciň che č successo prima...<NOD
+ciò che è successo prima...<NOD
 Amnesia, potremmo dire.<NOD<CLR<FAC0020Io ero... probabilmente
 un'Ammazza-Mimiga come
 gli altri robot...<NOD<CLO
@@ -137,7 +137,7 @@ gli altri robot...<NOD<CLO
 #0415
 <KEY<MSG<FAC0019Oh, wow.<NOD<CLR
 Quella Stella Polare che ti
-porti appresso č messa 
+porti appresso è messa 
 male.<NOD
 Vuoi fare cambio con
 la mia mitragliatrice?<YNJ0420<FL+0563<FAC0000<CLR
@@ -157,7 +157,7 @@ idea, sai dove trovarmi.<NOD<PRI<CLO<MYD0000
 <KEY
 <FLJ0563:0530
 <FLJ0562:0515
-<MSG<FAC0019Huh?<NOD<CLROh, se non č il Sig.
+<MSG<FAC0019Huh?<NOD<CLROh, se non è il Sig.
 Macchina Assassina.<NOD<CLRStai ancora pensando di 
 uccidere i Mimiga?<YNJ0510<CLR<FAC0020Capisco...<NOD<CLRChe peccato...<NOD<END
 
@@ -168,7 +168,7 @@ male ad una mosca!<NOD<CLRSono Curly.
 Curly Brace.<NOD
 Quando mi sono svegliata, ero
 con questi bimbi.<NOD<CLR<FAC0025Non ho memorie di  
-ciň che č successo prima...<NOD
+ciò che è successo prima...<NOD
 Amnesia, potremmo dire.<NOD<CLR<FAC0020Io ero... probabilmente
 un'Ammazza-Mimiga come
 gli altri robot...<NOD<CLO
@@ -176,7 +176,7 @@ gli altri robot...<NOD<CLO
 
 #0515
 <KEY<MSG<FAC0019Oh, wow.<NOD<CLRuella Stella Polare che ti
-porti appresso č messa male.<NOD
+porti appresso è messa male.<NOD
 Vuoi fare cambio con
 la mia mitragliatrice?<YNJ0520<FL+0563<FAC0000<CLR
 <TAM0002:0004:0100<GIT0002Le hai dato la =Stella Polare=.<NOD<CLR

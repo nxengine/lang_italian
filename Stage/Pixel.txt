@@ -22,15 +22,15 @@
 <FLJ1440:0202
 <FLJ0835:0201
 <MSG<TURDelle parole illuminano lo schermo.<NOD<CLR
-04-08-08 Moglie partorě figlio.<NOD<END
+04-08-08 Moglie partorì figlio.<NOD<END
 
 #0201
 <KEY<MSGDelle parole illuminano lo schermo.<NOD<CLR
-<TURPerchč non fai un pisolino?<NOD<END
+<TURPerchè non fai un pisolino?<NOD<END
 
 #0202
 <KEY<FL+1445<MSGDelle parole illuminano lo schermo.<NOD<CLR<TURLo sai, ho spesso preso appunti
-su ciň che ho appreso su quel notebook...<NOD<END
+su ciò che ho appreso su quel notebook...<NOD<END
 
 #0203
 <KEY<MSGDelle parole illuminano lo schermo.<NOD<CLR
@@ -41,7 +41,7 @@ su ciň che ho appreso su quel notebook...<NOD<END
 #0220
 <KEY<MSGNulla stuzzica il tuo interesse...<NOD<END
 #0221
-<KEY<MSGC'č un blocco note, coperto
+<KEY<MSGC'è un blocco note, coperto
 dalla polvere...<NOD<FLJ1441:0223<FLJ1445:0222<END
 #0222
 <KEY<MSG
@@ -53,11 +53,11 @@ automaticamente spento per evitare
 un corto circuito.<NOD<CLREcco la corretta procedura
 per prendersi cura di un robot annegato:<NOD<CLR<MSG
 .<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010<NOD<CLR<CMU0010Hai imparato come 
-sistemare i robot annegati!<WAI0160<NOD<RMU<CLR<TURUna volta che il robot č stato asciugato
-seguendo le procedure sopramenzionate,<NOD<CLRIl sistema provvederŕ automaticamente
+sistemare i robot annegati!<WAI0160<NOD<RMU<CLR<TURUna volta che il robot è stato asciugato
+seguendo le procedure sopramenzionate,<NOD<CLRIl sistema provvederà automaticamente
 ad iniziare la procedura di riaccensione.<WAI0030<NOD<END
 #0223
-<KEY<MSGNon c'č scritto nient'altro che
+<KEY<MSGNon c'è scritto nient'altro che
 possa essere utile...<NOD<END
 
 #0250
@@ -83,7 +83,7 @@ che sia ancora viva.<NOD<END
 da Curly?<YNJ0000<CLO
 <FL+1442<FAO0001<CMU0000<WAI0200<FAI0001
 <WAI0150<MSG<FAC0020
-Ooohh...<NOD<CLR<CMU0014<FAC0025.....<NOD<CLR<ANP0260:0001:0002<FAC0019Sei vivo!<NOD<CLROh, sono cosě contenta...<NOD<CLR<FAC0025Non credevo che ce
+Ooohh...<NOD<CLR<CMU0014<FAC0025.....<NOD<CLR<ANP0260:0001:0002<FAC0019Sei vivo!<NOD<CLROh, sono così contenta...<NOD<CLR<FAC0025Non credevo che ce
 l'avremmo fatta.<NOD
 Quando ti ho visto svenire,
 Non sono riuscita a pensare
@@ -103,7 +103,7 @@ Vuoi lasciarla qui?<YNJ0256<END
 #0256
 <KEY<CNP0260:0259:0000<FL+0836<FL-1440<FL+1444<END
 #0257
-<KEY<MSGIl letto č bagnato fradicio.<NOD<END
+<KEY<MSGIl letto è bagnato fradicio.<NOD<END
 
 #0260
 

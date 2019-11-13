@@ -59,12 +59,12 @@ Drago del Cielo...<NOD<END
 <ANP0201:0000:0002<END
 
 #0210
-<PRI<MSGC'č stata questa enorme 
+<PRI<MSGC'è stata questa enorme 
 esplosione!<NOD
 Quando sono rinvenuto, questo 
-disastro č ciň che mi sono 
+disastro è ciò che mi sono 
 ritrovato attorno.<NOD
-Ma cosa diamine č successo?!<NOD<END
+Ma cosa diamine è successo?!<NOD<END
 
 #0300
 #0301

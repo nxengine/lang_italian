@@ -19,7 +19,7 @@
 <KEY<SOU0011<ANP0115:0000:0002<FAO0002<TRA0057:0092:0003:0002
 
 #0120
-<PRI<FLJ1105:0122<MSGQual'č la password?<NOD<FLJ1024:0121<END
+<PRI<FLJ1105:0122<MSGQual'è la password?<NOD<FLJ1024:0121<END
 #0121
 <MSG
 "Litagano Motscoud".<NOD<CLO
@@ -35,7 +35,7 @@
 <FLJ1023:0137
 <ITJ0025:0136
 <MSGDice "Vietato entrare".<NOD
-Ed č chiuso.<NOD<END
+Ed è chiuso.<NOD<END
 #0136
 <SOU0022<MSG<GIT1025Usata la =Chiave della Stanza 
 del Teletrasporto=.<NOD<CLO
@@ -71,11 +71,11 @@ qui...<NOD<END
 
 #0201
 <PRI<MSGGli abitanti della superficie 
-vogliono attaccarci, perciň 
+vogliono attaccarci, perciò 
 stiamo coltivando dei fiori 
 rossi per prepararci.<NOD
 Se quello che dice il 
-Dottore č vero, meglio 
+Dottore è vero, meglio 
 che questi fiori 
 sboccino alla svelta, oppure..<NOD<END
 
@@ -109,13 +109,13 @@ Sbocciate, mie bellezze cremisi!<NOD<END
 #0241
 <PRI<FL+1037<MSGOho.<NOD<CLRSei nuovo qui, nevvero?<NOD
 Scommetto che sei ancora un po' 
-confuso, preso da chissŕ dove 
+confuso, preso da chissà dove 
 e schiaffato qui all'improvviso.<NOD<CLRBeh, ricorda questo.<NOD
 Non provare a fare scherzi.<NOD
 Se scappi e poi riescono a
 prenderti, ti sbattono in
 gattabuia.<NOD
-Finchč ti limiti a pensare
+Finchè ti limiti a pensare
 ai fiori sarai al sicuro,
 ad avrai i tuoi tre pasti 
 al giorno.<NOD<END
@@ -141,7 +141,7 @@ Non devo parlare con gli umani.<NOD<END
 si rompono ogni secondo.<NOD<END
 
 #0252
-<PRI<FL+1029<MSGSi č rotto di nuovo!<NOD<CLR.....<NOD<CLRHey, tu.
+<PRI<FL+1029<MSGSi è rotto di nuovo!<NOD<CLR.....<NOD<CLRHey, tu.
 Tu sei quello nuovo, giusto?<NOD
 Prendi quello spruzzatore rotto
 e vallo a cambiare con uno nuovo.<NOD<END
@@ -173,9 +173,9 @@ coltivazione.<NOD<END
 <MSGOh, hey, sei tu.<NOD<CLRHo catturato una cosa strana
 poco fa.<NOD
 Puoi averla, se vuoi.<NOD
-E' lŕ dietro nel secchio.<NOD<END
+E' là dietro nel secchio.<NOD<END
 #0261
-<PRI<MSGE' lŕ dietro nel secchio...<NOD<END
+<PRI<MSGE' là dietro nel secchio...<NOD<END
 #0262
 <PRI<MSGDove va questa chiave, mi domando?<NOD<CLRPenseresti che ci fosse
 una toppa corrispondente qui intorno...<NOD<CLRUff, ho fame...<NOD<END
@@ -197,7 +197,7 @@ che brilla in fondo.<NOD<CLR<GIT1025<IT+0025<CLR
 <CMU0010Hai trovato la 
 =Chiave della Stanza del Teletrasporto=.<WAI0160<NOD<RMU<END
 #0267
-<PRI<MSGQui non c'č piů niente...<NOD<END
+<PRI<MSGQui non c'è più niente...<NOD<END
 
 #0299
 <PRI<MSG.....<NOD<END
@@ -215,17 +215,17 @@ Oh, ci sono cascato...<NOD<TRA0057:0094:0011:0014
 <FLJ1044:0312
 <MSGUn uomo della superficie,
 il Dottore, sta usando i Mimiga
-per coltivare i fiori rossi.<NOD<CLRNon č la prima volta che
+per coltivare i fiori rossi.<NOD<CLRNon è la prima volta che
 succede una cosa del
 genere...<NOD<END
 #0311
 <PRI<MSGHo trovato questa qui svenuta in
 una sorgente.<NOD
 Dice di non ricordarsi nemmeno
-chi č...<NOD<CLRSolo ferraglia, immagino.<NOD<FL+1044<EVE0312
+chi è...<NOD<CLRSolo ferraglia, immagino.<NOD<FL+1044<EVE0312
 #0312
 <PRI<MSGOra che mi ci fai pensare...<NOD
-C'č un certo tipo di 
+C'è un certo tipo di 
 fungo, mi dissero,<NOD
 che ti fa ritornare la memoria
 quando lo si mangia...<NOD
@@ -246,7 +246,7 @@ era prima.<NOD<END
 <FL+1041<MSG<FAC0025Chi...<NODsei...?<NOD<ITJ0034:0322<END
 #0321
 <PRI<MSG<FAC0025Oh...<NOD
-Sei cosě carino...<NOD<CLRNon andare troppo oltre.<NOD
+Sei così carino...<NOD<CLRNon andare troppo oltre.<NOD
 E stai attento ai 
 robot cattivi...<NOD<ITJ0034:0322<END
 
@@ -270,24 +270,24 @@ Ma tu ed io, noi eravamo
 diversi.<NOD<CLRNoi due siamo stati mandati
 per distruggere quel
 potere.<NOD<CLRQuando siamo arrivati qui,
-l'isola era giŕ in rovina.<NOD
+l'isola era già in rovina.<NOD
 Gli altri robot l'avevano 
 ridotta in briciole...<NOD<CLRUn numero spropositato 
 di Mimiga furono 
 uccisi...<NOD
 <FAC0020E' stato... terribile...<NOD<CLR<FAC0025Finalmente, un uomo 
-entrň in possesso della
+entrò in possesso della
 =Corona Demoniaca=.<NOD<CLRIl lavoro dei Robot era
 finito, e l'isola cadde
 nel silenzio.<NOD<CLRMa quello fu l'inizio 
 della tragedia.<NOD
 Con la corona in mano,
-l'uomo trasformň i
+l'uomo trasformò i
 Mimiga in assassini<NOD
-e cominciň ad attaccare
+e cominciò ad attaccare
 la Terra.<NOD<CLRIo provai a fermarlo.<NOD
 C'eri anche tu.<NOD<CLR
-.....<NOD<CLRQuesto... questo... č 
+.....<NOD<CLRQuesto... questo... è 
 tutto quel che ricordo.<NOD<CLRSono abbastanza sicura
 che riuscimmo 
 almeno a ferirlo.<NOD
@@ -316,16 +316,16 @@ Non preoccuparti per me.<NOD<CLR<FAC0025Oh,<NOD qui.<NOD<CLR<FAC0019Prendi quest
 <PRI<MSG<FAC0028Sono tornato!<NOD<CLRInutile nascondersi
 ormai, no?<NOD
 E comunque, il razzo
-non puň essere finito
+non può essere finito
 senza la mia presenza!<NOD<CLRA proposito...<NOD<CLR
 Se sconfiggete il 
 Dottore, pensate 
-che potrň tornare
+che potrò tornare
 umano di nuovo...?<NOD<END
 
 #0370
 <PRI<FLJ1034:0380<MSG<FAC0022<FL+1034Ti sei riposato bene?
-<NOD<CLRIl Razzo č pronto.<NOD<CLRRiuscirai a sconfiggere
+<NOD<CLRIl Razzo è pronto.<NOD<CLRRiuscirai a sconfiggere
 il dottore, vero?<NOD
 Io credo in te.<NOD<CLRTieni, portati questo...<NOD<CLO<FAC0000<FLJ0162:0371
 <IT+0018<GIT1018
@@ -340,20 +340,20 @@ Hai preso il Booster v2.0.<WAI0160<NOD<RMU<CLO
 <GIT0000<EVE0375
 
 #0375
-<PRI<MSG<FAC0022Questa non ti servirŕ piů.<NOD<CLO<FAC0000
+<PRI<MSG<FAC0022Questa non ti servirà più.<NOD<CLO<FAC0000
 <MSG<GIT1024<IT-0024<EQ-0064<FL-1020
 Ti sei tolto la 
 =Maschera da Mimiga=.<NOD<CLO<GIT0000<EVE0380
 
 #0380
 <PRI<MSG<FAC0022Giusto sopra di noi
-c'č una strada che conduce
+c'è una strada che conduce
 alla stanza del trono.<NOD
 Dovresti riuscire ad 
-arrivare lě usando il
+arrivare lì usando il
 razzo.<NOD<CLRI Mimiga sono scomparsi
 dalla piantagione.<NOD<CLR...in altre parole,
-Il Dottore potrebbe giŕ 
+Il Dottore potrebbe già 
 stare usando
 i fiori rossi.<NOD<CLRForza.<NOD<CLRUsa il razzo
 per arrivare nella 
@@ -363,13 +363,13 @@ Sbrigati!<NOD<END
 
 #0400
 <PRI<FLJ1102:0401<MSGSpruzza acqua
-ad enorme velocitŕ.<NOD<END
+ad enorme velocità.<NOD<END
 #0401
 <PRI<MSGHey! Quello ci serve qui!<NOD<END
 
 #0410
 <PRI<FLJ1102:0411<MSGISpruzza acqua
-ad enorme velocitŕ.<NOD<END
+ad enorme velocità.<NOD<END
 #0411
 <PRI<MSGHey! Quello ci serve qui!<NOD<END
 
@@ -380,7 +380,7 @@ ad enorme velocitŕ.<NOD<END
 <CMU0010Hai preso lo =Spruzzatore Rotto=.<WAI0160<NOD<RMU<END
 
 #0450
-<PRI<FLJ1040:0451<FL+1040<MSGDa quanto tempo non ci si abbaia!<NOD<CLRMi č stato detto di
+<PRI<FLJ1040:0451<FL+1040<MSGDa quanto tempo non ci si abbaia!<NOD<CLRMi è stato detto di
 portarti questo...<NOD<CLR<SOU0022<CMU0016<GIT1006Hai ricevuto una 
 =Capsula della Vita=!<WAI0160<NOD<RMU<ML+0005
 La tua energia massima viene 
@@ -394,7 +394,7 @@ darti questo...<NOD<CLR
 il Dottore? Buona fortuna!
 La mia coda scondinzola solo 
 per te!<NOD
-Ah, si, dě a Curly che la saluto!<NOD<END
+Ah, si, dì a Curly che la saluto!<NOD<END
 
 #0460
 <PRI<MSG<TURAttenti ai Gunfish! (Nota:

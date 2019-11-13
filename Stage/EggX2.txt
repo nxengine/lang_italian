@@ -29,7 +29,7 @@ gelido vento...<NOD<END
 <KEY<MSGDelle parole illuminano lo schermo.<NOD<CLR
 <TURSCHIUSURA AVVENUTA CON SUCCESSO<NOD<FLJ0941:0000<CLO
 <FL+0941
-<WAI0020<CMU0000<MSGChi c'č lŕ?<MYD0002<NOD<CLO
+<WAI0020<CMU0000<MSGChi c'è là?<MYD0002<NOD<CLO
 <WAI0050<CNP0400:0055:0000
 <WAI0010<ANP0400:0003:0000
 <WAI0048<ANP0400:0000:0000
@@ -46,15 +46,15 @@ Misery comparve.<NOD
 Ha preso Sue
 con lei,<NOD
 e non ho visto
-il Professore...<NOD<CLR.....<NOD<CLRComunque, č evidente
-che il Dottore č riuscito ad
+il Professore...<NOD<CLR.....<NOD<CLRComunque, è evidente
+che il Dottore è riuscito ad
 ottenere i semi.<NOD<CLROh,<NOD no, no, non
-č colpa tua...<NOD<ANP0400:0000:0002
+è colpa tua...<NOD<ANP0400:0000:0002
 La vittoria del Dottore
-era giŕ praticamente 
+era già praticamente 
 assicurata<NOD
 quando mise le mani su 
-quella Corona.<NOD<CLROrmai č solo una questione 
+quella Corona.<NOD<CLROrmai è solo una questione 
 di tempo prima che la sua 
 armata di Mimiga 
 selvaggi venga 
@@ -68,9 +68,9 @@ che fuggire...<NOD<CLRPotremmo farlo
 se usassimo un
 Drago del Cielo.<NOD
 E' per questo che sono qui.<NOD<CLRIl mio drago 
-si č appena schiuso.<NOD<CLO<FAC0000
+si è appena schiuso.<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000<WAI0100
-<MSG<FAC0010Vuoi fuggire con me?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Giŕ, non c'č altro modo.<NOD
+<MSG<FAC0010Vuoi fuggire con me?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Già, non c'è altro modo.<NOD
 Abbiamo fatto il possibile.<NOD<CLO
 <WAI0010<ANP0400:0003:0002
 <WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
@@ -83,12 +83,12 @@ Abbiamo fatto il possibile.<NOD<CLO
 <MSG<FAC0010Capisco...<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000
 <WAI0010<ANP0400:0005:0000
-<MSG<FAC0010Sai,<NOD a dire il vero c'č 
+<MSG<FAC0010Sai,<NOD a dire il vero c'è 
 un modo per fare tornare
 i Mimiga al loro<NOD
 stato naturale.<NOD<CLRPotresti distruggere il
 nucleo dell'isola.<NOD
-Se cosě facessi, perň,
+Se così facessi, però,
 l'isola probabilmente
 si sbriciolerebbe.<NOD
 Una scelta pericolosa, no?<NOD<WAI0050<ANP0400:0000:0000<CLRBeh, a prescindere, noi

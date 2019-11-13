@@ -33,12 +33,12 @@ Le ho portato tutti i
 semi da Lei richiesti.<NOD<CLR
 <FAC0021Ben fatto.<NOD<CLRE comunque...<NOD
 Sono i fiori che 
-fioriscono lě.<NOD<CLO
+fioriscono lì.<NOD<CLO
 <WAI0030<ANP0502:0000:0000<WAI0030
 <MSGSono questi i fiori
 demoniaci?<NOD<FAC0000<CLO
 <WAI0030<ANP0502:0000:0002
-<MSG<FAC0015Infatti.<NOD<CLR<FAC0021Ma guarda...<NOD<CLRSono ancora piů misteriosi
+<MSG<FAC0015Infatti.<NOD<CLR<FAC0021Ma guarda...<NOD<CLRSono ancora più misteriosi
 di come li avevo
 immaginati...<NOD<CLR<FAC0015Mio signore...<NOD
 Vuole che ne consuma uno
@@ -78,16 +78,16 @@ Dottore!<NOD<FAC0000<CLO
 <WAI0050<MSG<FAC0021.....<NOD<CLREbbene, si.<NOD
 Sono il Dottore.<NOD<CLRE da ora in poi, anche il
 vostro nuovo leader.<NOD<CLRPiacere di fare la vostra
-conoscenza.<NOD<CLRDimmi, cos'č che pensavi
+conoscenza.<NOD<CLRDimmi, cos'è che pensavi
 di fare con quella
-spada?<NOD<CLRHm-hm-hmm...<NOD<CLR<FAC0007Ti ucciderň!!<NOD<FAC0000<CLO
+spada?<NOD<CLRHm-hm-hmm...<NOD<CLR<FAC0007Ti ucciderò!!<NOD<FAC0000<CLO
 <ANP0505:0010:0002<WAI0040
 <ANP0502:0020:0000<WAI0015
 <ANP0501:0010:0000
 <CNP0507:0146:0002<WAI0015
 <ANP0505:0030:0000<FON0505:0016
 <DNA0145<CMU0000<WAI0130
-<MSG<FAC0021Cielo, sono davverň cosě 
+<MSG<FAC0021Cielo, sono davverò così 
 fragili prima che la rabbia 
 dei fiori si
 impossessi di loro?<NOD<CLO<WAI0030<SMC<WAI0030
@@ -119,7 +119,7 @@ Hai sconfitto Toroko Impazzita.<WAI0050<NOD<CLO
 #0507
 
 #0600
-<KEY<FL+0622<MSG<FAC0007Ergh...<NOD<CLRPer me č ormai troppo 
+<KEY<FL+0622<MSG<FAC0007Ergh...<NOD<CLRPer me è ormai troppo 
 tardi.<NOD
 Mi... vendicherai...?<NOD<CLO
 <ANP0505:0040:0005<MYB0000<WAI0100<END

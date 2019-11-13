@@ -88,7 +88,7 @@ Non-ho-mica-paura-DI-TE!!<ANP0502:0000:0002<NOD<CLR<CMU0000
 <FAC0012OOGAAHH!!<NOD<CLR<FAC0003<ANP0502:0011:0002<ANP0502:0011:0002Si? E quello cos'era?<NOD
 Vuoi scazzottare?!<NOD<CLRDai, vieni avanti e 
 provaci!<NOD
-Nemmeno mio fratello č mai
+Nemmeno mio fratello è mai
 riucito a battermi!<NOD<FAC0000<CLO
 <ANP0501:0002:0000<WAI0058
 <ANP0501:0004:0000<WAI0010

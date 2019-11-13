@@ -25,11 +25,11 @@
 
 #0200
 <PRI<MSGSe hai intenzione di arrenderti,
-posso ridarti un pň di tempo.<NOD<CLRVuoi arrenderti?<YNJ0000<CLO
+posso ridarti un pò di tempo.<NOD<CLRVuoi arrenderti?<YNJ0000<CLO
 <FL+1390<FL+1391<FL+1392<CMU0000<FAO0001<WAI0100
 <TRA0070:0310:0118:0062
 
 #0250
 <PRI<MSG
-Il letto č tutto sconquassato...<NOD<END
+Il letto è tutto sconquassato...<NOD<END
 

@@ -107,7 +107,7 @@ Mi chiedo se fosse
 una specie di base.<NOD<END
 #0301
 <KEY<FLJ0823:0302<MSG<FAC0025Questo cancello si
-č aperto solo a metŕ.<NOD<CLRSembra che ci sia
+è aperto solo a metà.<NOD<CLRSembra che ci sia
 qualcosa che lo blocchi...<NOD<END
 #0302
 <KEY<MSG<FAC0019Cancello dopo 
@@ -174,14 +174,14 @@ sbloccato.<NOD<CLO<WAI0050<ANP0253:0010:0001
 <KEY
 <FLJ0837:0304
 <FLJ0828:0305
-<MYB0002<WAI0030<MYD0002<MSG<FAC0019Guarda.<NOD<CLRQuesto č un soldato
+<MYB0002<WAI0030<MYD0002<MSG<FAC0019Guarda.<NOD<CLRQuesto è un soldato
 dalla superficie.<NOD
 E' tutto malconcio.<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
 <MSG<FAC0025Ce ne sono un sacco come 
 lui, anche.<NOD
-Ma cosa diavolo gli č...<NOD<CLRNon un Mimiga.
+Ma cosa diavolo gli è...<NOD<CLRNon un Mimiga.
 No, per fare un simile
 danno...<NOD<CLO
 <CMU0000<ANP0255:0020:0000<WAI0020<FOM0016
@@ -226,14 +226,14 @@ mi ha scaraventato qui!<NOD<CLRE' meglio che i bambini
 siano sani e salvi!<NOD<CLR<FAC0016Ha! Taci!<NOD<CLRCredi di essere la loro 
 madre?<NOD
 Ma almeno lo sai cosa
-č questo?!<NOD<CLR
-<FAC0019Cosa?<NOD<CLR<FAC0016Hmph. Vedi, č questo 
+è questo?!<NOD<CLR
+<FAC0019Cosa?<NOD<CLR<FAC0016Hmph. Vedi, è questo 
 che non sopporto 
-dei robot.<NOD<CLRQuesto č il cuore 
+dei robot.<NOD<CLRQuesto è il cuore 
 dell'isola!
-<NOD<CLRSe lo fermi, l'isola cadrŕ 
+<NOD<CLRSe lo fermi, l'isola cadrà 
 sulla terra!<NOD<CLRSarebbe questo il tuo 
-grande piano?<NOD<CLRPortare giů con te
+grande piano?<NOD<CLRPortare giù con te
 l'isola in una fiammata di
 gloria?!<NOD<CLRPoveri sciocchi!!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
@@ -258,7 +258,7 @@ laboratorio immediatamente!<NOD<CLRAbbiamo ancora tempo!!<NOD<CLO<FAC0000
 #1100
 <KEY<FL-4000<FAO0004<WAI0050
 <MSGI tuoi sensi vengono meno, e 
-l'oscuritŕ ti avvolge...<NOD<CLO
+l'oscurità ti avvolge...<NOD<CLO
 <DNP0450
 <FL+0830<FL-0825<FL+0829<FL-0827
 <FL+0800<FL+0801<FL+0372<FL+0411

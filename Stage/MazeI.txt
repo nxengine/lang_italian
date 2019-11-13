@@ -29,7 +29,7 @@ L'energia vitale massima aumenta di 5 punti!<NOD<END
 
 #0400
 <KEY<ANP0501:0010:0002<CMU0000<MSG!!<NOD<CLR.....<NOD<CLRSembra che hai colpito
-il pavimento.<NOD<CLRCos'č questo posto?<NOD<CLO
+il pavimento.<NOD<CLRCos'è questo posto?<NOD<CLO
 <MYD0002
 <MNA<FAI0001<WAI0050<DNP0501<SMC<WAI0100<CMU0019<END
 
@@ -46,7 +46,7 @@ il pavimento.<NOD<CLRCos'č questo posto?<NOD<CLO
 <DNP0500<DNP0502<MYD0000<END
 
 #0403
-<KEY<MSGLa porta č aperta.<NOD<END
+<KEY<MSGLa porta è aperta.<NOD<END
 
 #0410
 
@@ -55,9 +55,9 @@ il pavimento.<NOD<CLRCos'č questo posto?<NOD<CLO
 <PRI<MSGScommetto che Misery ti ha 
 scaraventato qui.<NOD
 Poverino...<NOD
-Questa č la discarica dell'isola.<NOD
+Questa è la discarica dell'isola.<NOD
 Una volta che sei dentro,
-non ne esci piů fuori...<NOD<END
+non ne esci più fuori...<NOD<END
 
 #0501
 
@@ -68,13 +68,13 @@ qualche parte.<NOD
 Ma i punti d'appoggio sono
 sdrucciolevoli.<NOD
 Sono caduto un sacco di volte
-finchč non mi sono rotto le gambe.<NOD<END
+finchè non mi sono rotto le gambe.<NOD<END
 
 #0503
 <PRI<MSGNessuna risposta.<NOD<END
 
 37: MazeI      0640 - 0659
-0640:Ź‰“ž—
-0641:”ŕŠJ‚­
-0642:‰CtJvZ‹
+0640:
+0641:àJ­
+0642:CtJvZ
 

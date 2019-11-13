@@ -34,7 +34,7 @@
 #0200
 <FLJ0481:0202
 <KEY<MSGI ventilatori sono SPENTI.<NOD
-MALCO č SPENTO.<NOD<CLRATTIVARE la corrente?<YNJ0000<CLR
+MALCO è SPENTO.<NOD<CLRATTIVARE la corrente?<YNJ0000<CLR
 <SOU0043<FL+0481<CNP0201:0102:0000Corrente ATTIVATA.<NOD<CLO
 <KEY<CMU0000<ANP0300:0010:0000<WAI0020<MYD0002<WAI0450
 <CMU0004<MSGALLARME INTRUSO!<NOD
@@ -45,7 +45,7 @@ COMINCIARE DISTRUZIONE!!<NOD<CLO<WAI0050
 <CNP0203:0012:0000
 <MSG<FAC0005Lo sapevate VOI che la 
 Mimiga che avevo trovato 
-NON era Sue?<YNJ0204<CLRProprio cosě!<NOD<EVE0204
+NON era Sue?<YNJ0204<CLRProprio così!<NOD<EVE0204
 
 #0201
 #0202
@@ -61,14 +61,14 @@ Hai scacciato Balrog!<WAI0140<NOD
 
 #0204
 <KEY<MSGNon lo ERA!<NOD<CLRIl Dottore si 
-č MOLTO arrabbiato.<NOD
+è MOLTO arrabbiato.<NOD
 Ha dato a Misery una 
 lezione molto dura.<NOD
 <FAC0014<ANP0203:0030:0000Povera ragazza, non
 credi?<NOD<CLR<FAC0005Ma dopotutto, non possiamo 
 andare contro il 
 nostro padrone.<NOD
-Cosě dicono le regole.<NOD<CLRComunque, sono qui
+Così dicono le regole.<NOD<CLRComunque, sono qui
 per farvi a pezzetti.<NOD
 Ordini del Dottore, 
 naturalmente.<NOD
@@ -85,9 +85,9 @@ Siamo pronti?<NOD<CLO
 Non sembra avere corrente.<NOD<END
 #0301
 <PRI<MSG.....<NOD<FLJ0482:0302
-La sua testa č tutta sfasciata.<NOD<END
+La sua testa è tutta sfasciata.<NOD<END
 #0302
-<KEY<MSGIl suo corpo č per terra
+<KEY<MSGIl suo corpo è per terra
 tutto sfasciato.<NOD
 Vuoi tirarlo su?<YNJ0000<CLO<WAI0050
 <CNP0300:0109:0004

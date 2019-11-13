@@ -36,9 +36,9 @@ trasmissione...<FAO0004<NOD<TRA0018:0501:0002:0000
 
 #0301
 <FLJ1644:0303
-<KEY<MSGNon č che hai visto la pistola 
+<KEY<MSGNon è che hai visto la pistola 
 che ho costruito, vero?<NOD
-Qualcuno č entrato e se l'č presa
+Qualcuno è entrato e se l'è presa
 mentre dormivo!<NOD
 Diamine, sapevo che avrei dovuto
 mettermela in tasca mentre
@@ -51,7 +51,7 @@ che mondo...<NOD<END
 
 #0302
 <KEY<MSG<CMU0000<MYB0002
-HEY!!<NOD<CLRNon č QUELLA la mia pistola?!<NOD<CLR<GIT0002Che ci fa in mano tua?!
+HEY!!<NOD<CLRNon è QUELLA la mia pistola?!<NOD<CLR<GIT0002Che ci fa in mano tua?!
 Non l'ho fatta per te!<NOD<CLRRidammela!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
 Ti ha preso la =Stella Polare=...<NOD<CLRBah!<NOD
 Vedo che ti sei dato da fare
@@ -62,14 +62,14 @@ dovrebbe costruirsi le proprie
 armi.<NOD
 Colui che combatte con armi
 altrui e pensa di stare usando la 
-propria forza č un avventato.<NOD
-Colui che dŕ la colpa ai suoi 
+propria forza è un avventato.<NOD
+Colui che dà la colpa ai suoi 
 strumenti per la forza che 
-lui stesso non puň ottenere 
-č uno sciocco.<NOD<CLR
+lui stesso non può ottenere 
+è uno sciocco.<NOD<CLR
 <CMU0008Comunque...<WAI0050<CLRVedere davanti ai miei occhi 
 questa pistola usata in 
-maniera cosě intensa, mi fa 
+maniera così intensa, mi fa 
 venire le lacrime agli occhi.<NOD
 Il solo pensiero che utilizzarla 
 in questo modo sia stato 
@@ -77,7 +77,7 @@ possibile ancor prima che fosse
 del tutto completata...<NOD<CLR
 Hahhh...<NOD<CLRChiedo venia per il mio brontolio.<NOD<CLR
 Puoi tenertela, la pistola.<NOD<CMU0000<FAO0001
-Dopo che l'avrň finita, ovviamente.<NOD<CLO
+Dopo che l'avrò finita, ovviamente.<NOD<CLO
 <WAI0150<FAI0001
 <FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG
 <CMU0010<MSG<GIT0013
@@ -88,7 +88,7 @@ lo =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
 #0303
 <KEY<MSGIn questo mondo, esiste 
 un equilibrio tra coloro
-che creano e coloro che utilizzano.<NOD<CLRLo sapevo giŕ, naturalmente, ma
+che creano e coloro che utilizzano.<NOD<CLRLo sapevo già, naturalmente, ma
 con il tuo aiuto l'ho potuto
 provare di persona.<NOD
 D'ora in poi, giuro di dedicarmi

@@ -149,7 +149,7 @@ l0100
 [ Spesso arrabbiato: Behemoth]0048-0048
 [ Fungo bianco: Pignon]0042-0048
 [ Val la pena mangiarlo: Grande Pignon]0043-0048
-[ Ce n'č solo uno: Chinfish]0038-0048
+[ Ce n'è solo uno: Chinfish]0038-0048
 [ Ti fa a pezzettini: Gravekeeper]0044-0048
 [ Lampo sul pavimento: Basil]0049-0048
 [ Un insetto modello: Maggiolino]0046-0048
@@ -158,7 +158,7 @@ l0100
 [ Il fantasma bianco polvere: Mannan]0051-0048
 [ Ranocchietta: Puchi]0054-0048
 [ Ranocchiona: Frog]0055-0048
-[ Svolazza quŕ e lŕ: Jelly]0052-0048
+[ Svolazza quà e là: Jelly]0052-0048
 [ Regina Medusa: Kulala]0053-0048
 [ Mimiga Violento: Rabil]0057-0048
 [ Trappola Mortale: Press]0056-0048
@@ -313,4 +313,4 @@ l0300
 /
 
 <<<
-2000J[Š[G“fB“O
+2000J[[GfBO

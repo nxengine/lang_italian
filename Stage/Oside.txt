@@ -15,7 +15,7 @@
 
 #0120
 <KEY<SOU0011<ANP0120:0000:0002<FAO0004<TRA0055:0094:0009:0009
-<MSGQuesto č tutto...<NOD<END
+<MSGQuesto è tutto...<NOD<END
 
 #0130
 <KEY<ITJ0032:0131<SOU0011<ANP0130:0000:0002<FAO0000<TRA0069:0090:0015:0008
@@ -47,9 +47,9 @@ ti conviene sbrigarti.<NOD<END
 <MSG<FAC0010Tieniti forte.<NOD<CLO<FAC0000
 <ANP0410:0020:0002<WAI0250
 <ANP0410:0010:0002<WAI0200
-<MSGE cosě siete riusciti a scappare 
+<MSGE così siete riusciti a scappare 
 dall'isola con successo.<WAI0200<CLRPoco dopo, Il Dottore 
-iniziň ad attaccare la terra, 
+iniziò ad attaccare la terra, 
 utilizzando l'isola volante 
 come base.<WAI0200<CLRLe nazioni della terra saranno 
 riuscite a resistere all'assalto 
@@ -71,6 +71,6 @@ vite...<WAI0200<CLR<CMU0026
 debugging.<NOD
 Per adesso il gioco si ferma qui<NOD
 Sto pensando di rendere questo stage l'ultimo stage.<NOD
-Mi chiedo quanto potrň andare avanti
+Mi chiedo quanto potrò andare avanti
 in soli due mesi...<NOD<END
 

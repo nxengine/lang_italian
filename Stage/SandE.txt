@@ -20,7 +20,7 @@
 <CNP0601:0067:0000<WAI0100
 <MSG<FAC0015E quindi sei vivo.<NOD<FAC0000<CLO
 <ANP0601:0013:0000<WAI0050<CNP0601:0082:0000
-<MSG<FAC0015Mi ricordi un pň la 
+<MSG<FAC0015Mi ricordi un pò la 
 me stessa di
 qualche tempo fa.<NOD
 Un piccolo robot

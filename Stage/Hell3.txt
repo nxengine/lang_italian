@@ -114,7 +114,7 @@
 <MSGAperto lo scrigno del tesoro.<NOD<CLR<EVE0400
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
-<CMU0010Hai trovato il =Lanciamissili=!<WAI0160<NOD<RMU<CLRIl Lanciamissili č un'arma 
+<CMU0010Hai trovato il =Lanciamissili=!<WAI0160<NOD<RMU<CLRIl Lanciamissili è un'arma 
 potente, ma ha munizioni limitate.<NOD<CLRPuoi farne scorta prendendo
 gli oggetti lasciati dai nemici.<NOD<END
 #0401
@@ -126,10 +126,10 @@ gli oggetti lasciati dai nemici.<NOD<END
 #0900
 <DNP0900<SKJ0024:0000<SK+0024
 <PRI<MS3Jenka, nel vedere la follia
-del fratello, lo confinň in 
+del fratello, lo confinò in 
 quest'isola galleggiante.<NOD
 Era il massimo che potesse fare.<NOD
-Anche se folle, non riuscě 
+Anche se folle, non riuscì 
 a trovare la forza per uccidere
 il suo stesso fratello...<NOD<END
 
